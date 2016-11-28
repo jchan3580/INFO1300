@@ -23,6 +23,18 @@ html,body{
     background-image: url(../images/apples.jpg)
 }
 
+#banner h1 {
+    padding-top: 1em;
+    padding-bottom: 0em;
+    margin: 0em;
+}
+
+#banner h3 {
+    padding-top: 0em;
+    padding-bottom: 1em;
+    margin: 0em;
+}
+
 #nav_bar {
 	text-align: center;
 	width: 100%;
@@ -31,7 +43,7 @@ html,body{
     color: white;
 }
 
-a {
+#nav_bar a {
     text-decoration: none;
     color: white;
 }
@@ -41,33 +53,41 @@ a {
 }
 
 #main {
-	margin-top: 9em;
+	margin-top: 10em;
 	margin-right: auto;
 	margin-left: auto;
-	width: 960px;
+	width: 75%;
 }
 
 #content {
 	display: inline-block;
-	width: 90%;
+}
+
+#footer-content {
+    padding-right: 10em;
+    padding-left: 10em;
 }
 
 #footer-content ul li {
     display: inline-block;
     height: 45px;
+    border-right: 1px dashed #a7a7a7;
 }
+
 .facebook {
     width: 70px;
     height: 45px;
     background: url(../images/facebook.jpeg) no-repeat center center;
     padding: 0 10px;
 }
+
 .twitter {
     width: 70px;
     height: 45px;
     background: url(../images/twitter.jpeg) no-repeat center center;
     padding: 0 10px;
 }
+
 .youtube {
     width: 70px;
     height: 45px;
@@ -84,37 +104,9 @@ a {
 /* split between styling and media queries */
 /******/ 
 
-@media screen and (min-width:769px) and (max-width: 1200px) {
-    
-    #banner_image {
-        width: 100%;
-        margin-top: 2em;
-    }
-    
-    #main_content {
-        margin-right: auto;
-        margin-left: auto;
-        max-width: 960px;
-        width: 90%;
-        margin-top: 1.5em;
-    }
-    
-    #main_content_heading {
-        padding-bottom: 0em;
-    }
-    
-    .item_image {
-        max-width:95%;
-        min-width:71%;
-        align-items: center;
-        display: block;
-        margin: auto;
-    }
-}
-
 @media screen and (min-width: 0px) and (max-width: 480px) {
     
-    .nav_span {
+    .navspan {
         font-size: 0.8em;
         padding-bottom: 0.2em;
         padding-top: 0.2em;
@@ -128,32 +120,15 @@ a {
         display: none;
     }
     
-    #main_content {
+    #main {
         width: 85%;
         padding-right: 0.5em;
         padding-left: 0.5em;
-        margin-top: 10em;
-    }
-    
-    #main_content_heading {
-        padding-top: 0.5em;
-    }
-    
-    .item{
-        border-bottom: 0.2em Solid #0375B4;
-    }
-    
-    .item_image{
-        display:none;
+        margin-top: 15em;
     }
     
     p {
         font-size:0.8em;
-    }
-    
-    .library {
-        font-weight: bold;
-        font-size: 1.1em;
     }
 
 }

@@ -11,6 +11,7 @@
 	<div id="sticky_header">
 		<div id="banner">
 			<h1>Apple Harvest Festival</h1>
+            <h3>Sept 30-Oct 2, 2016</h3>
 		</div> <!-- end of banner div -->
 		<div id="nav_bar">
 			<span class="navspan">Home</span>
@@ -40,7 +41,6 @@
 					<p>Integer vitae faucibus dolor. Nullam sed libero fringilla, dapibus velit nec, consequat ex. Quisque consequat sapien neque, ut mollis metus viverra sed. In commodo risus lorem, in malesuada nisi euismod eu. Duis vel dolor non erat sodales molestie eget id risus. Integer rhoncus magna nec eleifend fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis efficitur sollicitudin. Aliquam tristique nisi nec ullamcorper vehicula. Ut in lorem egestas, gravida erat at, facilisis est.</p>
 			<h1>Directions</h1>
 				<p>Vestibulum facilisis eros a lacus commodo, sed facilisis erat malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus malesuada posuere eros, sed maximus leo tempus et. Sed at tempor nisl. Quisque nec ex in libero dapibus cursus ut in sapien. Phasellus ante velit, congue ac tortor sed, vehicula sodales elit. Suspendisse id nisi lorem. Fusce vitae neque dignissim, aliquam ex non, ultrices erat. Nulla elementum, nulla sit amet gravida malesuada, enim ipsum ullamcorper nunc, nec maximus leo quam quis nunc. Quisque fermentum felis in dignissim dignissim. In aliquet tristique massa. Quisque pretium suscipit mattis.</p>
-			<h1>Social Media</h1>
 		</div> <!-- end of content div -->
 	</div> <!-- end of main div -->
 </body>
