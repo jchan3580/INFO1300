@@ -44,5 +44,7 @@
 		</div> <!-- end of content div -->
 	</div> <!-- end of main div -->
 </body>
-
+<?php
+	include 'includes/footer.php';
+?>
 </html>

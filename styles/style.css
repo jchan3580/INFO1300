@@ -46,6 +46,31 @@ html,body{
 	width: 90%;
 }
 
+#footer-content ul li {
+    display: inline-block;
+    height: 50px;
+}
+.facebook {
+    width: 70px;
+    background: url(../images/facebook.jpeg) no-repeat center center;
+    padding: 0 10px;
+}
+.twitter {
+    width: 70px;
+    background: url(../images/twitter.jpeg) no-repeat center center;
+    padding: 0 10px;
+}
+.youtube {
+    width: 70px;
+    background: url(../images/youtube.jpeg) no-repeat center center;
+    padding: 0 10px;
+    border-right: none;
+}
+
+#footer-content ul li span {
+    visibility: hidden
+}
+
 /*********/
 /* split between styling and media queries */
 /******/ 

@@ -22,5 +22,7 @@
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
 </body>
-
+<?php
+	include 'includes/footer.php';
+?>
 </html>
