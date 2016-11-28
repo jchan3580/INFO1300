@@ -5,6 +5,7 @@ html,body{
 	margin: 0;
 	padding: 0;
     background-color: #DAA520;
+    color: #6c2411;
 }
 
 #sticky_header {
@@ -16,7 +17,7 @@ html,body{
 #banner {
 	text-align: center;
     color: white;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-shadow: -1.5px 0 #6c2411, 0 1.5px #6c2411, 1.5px 0 #6c2411, 0 -1.5px #6c2411;
 	padding: 10px;
 	width: 100%;
     background-image: url(../images/apples.jpg)
@@ -26,7 +27,12 @@ html,body{
 	text-align: center;
 	width: 100%;
 	padding: 5px;
-    background-color: #D2691E;
+    background-color: #6c2411;
+    color: white;
+}
+
+a {
+    text-decoration: none;
     color: white;
 }
 
