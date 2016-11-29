@@ -5,6 +5,7 @@
 <head>
 	<title>Apple Harvest Festival</title>
 	<link rel="stylesheet" href="styles/style.css" type="text/css">
+	<script src="js/imagecycle.js"></script>
 </head>
 
 <body>
@@ -25,6 +26,13 @@
 	</div> <!-- end of stickyheader div -->
 
 	<div id="main">
+		<div id="photos">
+			<div class="buttons">
+			     <button onclick="change(0);">Previous</button>
+        		<button onclick="change(1);">Next</button>
+			</div>
+			<img id="main_img" src="images/apple_fest.jpeg" alt="Apple Fest">
+		</div>
 		<div id="content">
 			<h1>About</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris risus enim, aliquam quis pretium ut, fringilla eget sapien. Fusce porta neque non justo porta ultrices. Sed pulvinar libero in finibus porta. Pellentesque a purus tellus. Duis risus lorem, iaculis eget bibendum sit amet, feugiat eget neque. Integer luctus leo sed urna vestibulum, et luctus ex volutpat. Ut vulputate sed enim eu maximus. Pellentesque tincidunt tincidunt nisi nec euismod. Nullam ut mollis arcu. Aenean consequat, tellus sed cursus convallis, ante ligula vehicula tellus, in egestas augue ipsum at orci. Aenean sit amet vestibulum nulla, nec posuere diam. Nam efficitur lorem egestas augue luctus, sed consectetur enim lacinia. Nunc rhoncus pulvinar risus vitae dignissim. Aenean lobortis sed urna quis tempus. Aenean consequat augue arcu, non suscipit est suscipit ut. Morbi malesuada enim sed elit placerat, eget vulputate lectus tincidunt.</p>
