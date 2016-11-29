@@ -138,7 +138,7 @@ html,body{
     }
 
     #footer-content {
-        display: inline-block;
+        display: inline;
     }
 
 }
