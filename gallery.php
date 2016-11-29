@@ -13,12 +13,12 @@
 			<h1>Apple Harvest Festival</h1>
 		</div> <!-- end of banner div -->
 		<div id="nav_bar">
-			<span class="navspan"><a href = "index.html"> Home </a></span>
-			<span class="navspan"><a href = "vendors.html"> Vendors </a></span>
-			<span class="navspan"><a href = "events.html"> Events </a></span>
+			<span class="navspan"><a href = "index.php"> Home </a></span>
+			<span class="navspan"><a href = "vendors.php"> Vendors </a></span>
+			<span class="navspan"><a href = "events.php"> Events </a></span>
 			<span class="navspan">Gallery</span>
-			<span class="navspan"><a href = "transportation.html"> Transportation </a></span>
-			<span class="navspan"><a href = "contact.html"> Contact Us </a></span>
+			<span class="navspan"><a href = "transportation.php"> Transportation </a></span>
+			<span class="navspan"><a href = "contact.php"> Contact Us </a></span>
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
 <?php

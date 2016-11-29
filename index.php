@@ -26,11 +26,11 @@
 	</div> <!-- end of stickyheader div -->
 
 	<div id="main">
+		<div class="buttons">
+			<button onclick="change(0);">Previous</button>
+        	<button onclick="change(1);">Next</button>
+		</div>
 		<div id="photos">
-			<div class="buttons">
-			     <button onclick="change(0);">Previous</button>
-        		<button onclick="change(1);">Next</button>
-			</div>
 			<img id="main_img" src="images/apple_fest.jpeg" alt="Apple Fest">
 		</div>
 		<div id="content">

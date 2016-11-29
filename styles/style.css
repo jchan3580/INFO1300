@@ -59,6 +59,18 @@ html,body{
 	width: 75%;
 }
 
+#buttons {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+#photos {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
 #content {
 	display: inline-block;
 }
