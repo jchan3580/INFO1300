@@ -21,8 +21,8 @@
 			<span class="navspan"><a href = "contact.html"> Contact Us </a></span>
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
-</body>
 <?php
 	include 'includes/footer.php';
 ?>
+</body>
 </html>
