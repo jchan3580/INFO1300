@@ -10,6 +10,7 @@
 <body>
 	<div id="sticky_header">
 		<div id="banner">
+        <!-- banner image source:https://70c97aaea282a207d81b-f84eee09323602e80e90b9678fa5fc9b.ssl.cf5.rackcdn.com/wp-content/uploads/2014/08/apples-780x511.jpg -->
 			<h1>Apple Harvest Festival</h1>
             <h3>Sept 30-Oct 2, 2016</h3>
 		</div> <!-- end of banner div -->
@@ -22,13 +23,6 @@
 			<span class="navspan"><a href = "contact.html"> Contact Us </a></span>
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
-
-<!-- temporary links for Images:
-	Banner:http://www.downtownithaca.com/local/image_files/large/57d339707c0bb.jpg
-	Facebook:http://downtownithaca.com/local/images/ad_fb.jpg
-	Twitter:http://downtownithaca.com/local/images/ad_twitter.jpg
-	Youtube:http://downtownithaca.com/local/images/ad_youtube.jpg
-	Map: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
 
 	<div id="main">
 		<div id="content">
@@ -46,6 +40,10 @@
 	<?php
 	include 'includes/footer.php';
 	?>
+    <!-- temporary links for footer images:
+	Facebook:http://downtownithaca.com/local/images/ad_fb.jpg
+	Twitter:http://downtownithaca.com/local/images/ad_twitter.jpg
+	Youtube:http://downtownithaca.com/local/images/ad_youtube.jpg-->
 </body>
 
 </html>
