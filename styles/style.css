@@ -134,15 +134,11 @@ html,body{
         margin-right: 2.5em;
     }
     
-    #banner_image {
-        display: none;
-    }
-    
     #main {
         width: 85%;
         padding-right: 0.5em;
         padding-left: 0.5em;
-        margin-top: 16em;
+        margin-top: 17em;
     }
     
     p {
