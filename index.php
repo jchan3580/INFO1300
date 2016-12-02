@@ -11,7 +11,7 @@
 <body>
 	<div id="sticky_header">
 		<div id="banner">
-        <!-- banner image source:https://70c97aaea282a207d81b-f84eee09323602e80e90b9678fa5fc9b.ssl.cf5.rackcdn.com/wp-content/uploads/2014/08/apples-780x511.jpg -->
+        <!-- banner image source: http://static.wixstatic.com/media/d4038b_a5c0a6f2d48448ef8e11806e7476cbe7.jpg -->
 			<h1>Apple Harvest Festival</h1>
             <h3>Sept 30-Oct 2, 2016</h3>
 		</div> <!-- end of banner div -->
