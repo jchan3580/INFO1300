@@ -160,6 +160,8 @@ html,body{
     visibility: hidden;
 }
 
+/** Transportation.php css */
+
 #map{
     float: left;
     width:65%;
@@ -169,6 +171,21 @@ html,body{
     float:right;
     width:35%;
 }
+
+/** Contact.php css */
+
+#contact-content {
+    float:left;
+    width: 75%;
+    margin-left: 1%;
+}
+
+#dia-img {
+    margin-top:2em;
+    float:right;
+    width:20%;
+}
+
 
 table{
     border-collapse:collapse;
