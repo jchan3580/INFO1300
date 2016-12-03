@@ -42,13 +42,16 @@
 			<button onclick="change(0);">Previous</button>
         	<button onclick="change(1);">Next</button>
 		</div>-->
-		<div id="photo1">
+		<div id= "photo1">
 			<img src="images/apple_fest.jpeg" alt="Apple Fest">
 		</div>
-		<div id = "photo2">
+		<div id="photo2">
             <img src="images/DSC_0510.JPG" alt="Maple Syrup">
             <img src="images/DSC_0687.JPG" alt="Apples">
-		</div>
+        </div>
+        <div id="photo3">
+        	<img src="images/IMG_3882.jpg" alt="Ithaca Commons">
+        </div>
 		<div id="content">
 			<h1>About</h1>
 				<p>For 34 years, Ithaca, NY has hosted plenty of apples, local produce, fresh baked goods, fun entertainment and live performances on two stages. The Apple Harvest Festival is always a great introduction to the rich farm and artist community of Ithaca.</p> 
@@ -59,40 +62,11 @@
             
 			<h1>Featured Events</h1>
 				<h3>Free Events</h3>
-					<ul>
-                        <li>
-                            <p>92 WICB will be MC'ing and giving away fun prizes @ main stage</p>
-                        </li>
-
-                        <li>
-                            <p>The Fun Zone: free crafts and games available in the Center Ithaca Lobby while supplies last each day</p>
-                        </li>
-                        
-                        <li>
-                            <p>SATURDAY 1:45-2pm: GIVEAWAYS @ main stage</p>
-                        </li>
-                    </ul>
+					<p>Integer vitae faucibus dolor. Nullam sed libero fringilla, dapibus velit nec, consequat ex. Quisque consequat sapien neque, ut mollis metus viverra sed. In commodo risus lorem, in malesuada nisi euismod eu. Duis vel dolor non erat sodales molestie eget id risus. Integer rhoncus magna nec eleifend fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis efficitur sollicitudin. Aliquam tristique nisi nec ullamcorper vehicula. Ut in lorem egestas, gravida erat at, facilisis est.</p>
 				<h3>Main Stage</h3>
-					<ul>
-                        <li>
-                            <p>SATURDAY 1:00-1:45PM: Riley Owens (Acoustic Pop)</p>
-                        </li>
-
-                        <li>
-                            <p>SUNDAY 10:00-10:45AM: IC Voicestream, Ithacapella, Premium Blend</p>
-                        </li>
-                        
-                        <li>
-                            <p>SUNDAY 2:00-3:00PM: Dapper Dan plays Apple Harvest Fest</p>
-                        </li>
-                        
-                        <li>
-                            <p>SUNDAY 4:30-5:00PM: Mirage Belly Dancers</p>
-                        </li>
-                    </ul>
-			<h1>Getting There</h1>
-				<p>Take a TCAT public bus, an Ithaca cab service, or walk from your campus to the Ithaca Commons!</p>
-                <p>Visit our <a href="transportation.php">Transportation</a> page for more detailed transportation information to the festival</p>
+					<p>Integer vitae faucibus dolor. Nullam sed libero fringilla, dapibus velit nec, consequat ex. Quisque consequat sapien neque, ut mollis metus viverra sed. In commodo risus lorem, in malesuada nisi euismod eu. Duis vel dolor non erat sodales molestie eget id risus. Integer rhoncus magna nec eleifend fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis efficitur sollicitudin. Aliquam tristique nisi nec ullamcorper vehicula. Ut in lorem egestas, gravida erat at, facilisis est.</p>
+			<h1>Directions</h1>
+				<p>Vestibulum facilisis eros a lacus commodo, sed facilisis erat malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus malesuada posuere eros, sed maximus leo tempus et. Sed at tempor nisl. Quisque nec ex in libero dapibus cursus ut in sapien. Phasellus ante velit, congue ac tortor sed, vehicula sodales elit. Suspendisse id nisi lorem. Fusce vitae neque dignissim, aliquam ex non, ultrices erat. Nulla elementum, nulla sit amet gravida malesuada, enim ipsum ullamcorper nunc, nec maximus leo quam quis nunc. Quisque fermentum felis in dignissim dignissim. In aliquet tristique massa. Quisque pretium suscipit mattis.</p>
 		</div> <!-- end of content div -->
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">
