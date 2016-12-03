@@ -1,7 +1,7 @@
 <?php
 	echo '
-	<div id="footer">
-	<div id="footer-content">
+	<div id="sm">
+	<div id="sm-content">
 		<ul>
 			<li class = "facebook">
 				<a href = "https://www.facebook.com/downtownithaca" target = "_blank"><span>Placeholder</span></a>

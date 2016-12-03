@@ -75,18 +75,18 @@ html,body{
 	display: inline-block;
 }
 
-#footer-content {
+#sm-content {
     padding-right: 10em;
     padding-left: 10em;
 }
 
-#footer-content ul li {
+#sm-content ul li {
     display: inline-block;
     height: 45px;
     border-right: 1px dashed #a7a7a7;
 }
 
-#footer-content ul li a {
+#sm-content ul li a {
     display: block;
     width: 100%;
     height: 100%;
@@ -114,7 +114,7 @@ html,body{
     border-right: none;
 }
 
-#footer-content ul li span {
+#sm-content ul li span {
     visibility: hidden;
 }
 
@@ -145,7 +145,7 @@ html,body{
         font-size:0.8em;
     }
 
-    #footer-content {
+    #sm-content {
         display: inline;
     }
 
