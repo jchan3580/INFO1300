@@ -167,9 +167,18 @@ html,body{
     width:65%;
 }
 
+#map iframe {
+    width:100% !important;
+}
+
 #tcat {
     float:right;
     width:35%;
+    margin-top: -1.5em;
+}
+
+#tcat h2{
+    text-align: center;
 }
 
 /** Contact.php css */
@@ -186,7 +195,7 @@ html,body{
     width:20%;
 }
 
-.transportation table{
+.transportation {
     border-collapse:collapse;
     border-spacing: 0;
     font-family: 'Open sans', sans-serif;
@@ -194,7 +203,7 @@ html,body{
     margin-top: 1.5em;
 }
 
-.transportation table, th, td {
+.transportation th, td {
     border: 1px solid;
     padding: 0.75em;
     text-align: center;

@@ -34,8 +34,8 @@
         <div id = "tcat">
             <h2>Bus Routes via TCAT</h2>
             <!-- TCAT bus route info source: https://tcat.nextinsight.com/summary.php?stopid=1010 -->
-            <figure class=transportation> 
-                <table>
+            <figure> 
+                <table class = "transportation">
                     <tr>
                         <th>To and From Commons</th>
                         <th>Route #s</th>
@@ -50,14 +50,10 @@
                     </tr>
                 </table>
             </figure>
-            
-        </div> <!-- end of tcat div -->
-    
-        <div id= "Taxi Services">
-           <h2>Ithaca Taxi Services</h2>
+            <h2>Ithaca Taxi Services</h2>
             <!-- Ithaca taxi services source: https://www.google.com/#q=ithaca+taxi+services -->
             <figure> 
-                <table class=transportation>
+                <table class="transportation">
                     <tr>
                         <th>Company</th>
                         <th>Phone #</th>
@@ -76,7 +72,7 @@
                     </tr>
                 </table>
             </figure>
-        </div> <!--end of Taxi Services div -->
+        	</div> <!--end of tcat div -->
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="550" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
