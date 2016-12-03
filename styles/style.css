@@ -5,7 +5,7 @@ html,body{
 	margin: 0;
 	padding: 0;
     background-color: white;
-    color: #6c2411;
+    color: #7F1F22;
 }
 
 #sticky_header {
@@ -68,11 +68,13 @@ html,body{
 }
 
 #main h1 {
-     font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    color: #ca3136;
 }
 
 #main h3 {
     font-family: 'Montserrat', sans-serif;
+    color: #ca3136;
 }
 
 #main p {
