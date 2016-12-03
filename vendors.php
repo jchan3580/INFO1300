@@ -81,6 +81,7 @@
                         </li>
                     </ul>
             </div> <!--end of vendors-food div -->
+            
             <div id= "vendors-crafts">
                 <h2 id="crafts">Crafts and other goods</h2>
                     <ul>
