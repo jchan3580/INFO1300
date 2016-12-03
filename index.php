@@ -42,8 +42,10 @@
 			<button onclick="change(0);">Previous</button>
         	<button onclick="change(1);">Next</button>
 		</div>-->
-		<div id="photos">
+		<div id="photo1">
 			<img src="images/apple_fest.jpeg" alt="Apple Fest">
+		</div>
+		<div id = "photo2">
             <img src="images/DSC_0510.JPG" alt="Maple Syrup">
             <img src="images/DSC_0687.JPG" alt="Apples">
 		</div>
