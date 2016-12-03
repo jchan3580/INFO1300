@@ -46,7 +46,7 @@
 		</div> <!-- end of content div -->
 	</div> <!-- end of main div -->
 	<?php
-	include 'includes/footer.php';
+	include 'includes/sm.php';
 	?>
     <!-- temporary links for footer images:
 	Facebook:http://downtownithaca.com/local/images/ad_fb.jpg
