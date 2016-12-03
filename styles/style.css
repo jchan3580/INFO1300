@@ -40,7 +40,7 @@ html,body{
 }
 
 #nav_bar {
-	text-align: center;
+	text-align: left;
     height: 1.4em;
 	width: 100%;
 	padding: 1.2em;
@@ -81,8 +81,8 @@ html,body{
 }
 
 #sm-content {
-    padding-right: 10em;
-    padding-left: 10em;
+    padding-right: 5em;
+    padding-left: 1em;
 }
 
 #sm-content ul li {
