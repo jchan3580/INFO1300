@@ -6,6 +6,12 @@
 	<title>Apple Harvest Festival</title>
 	<link rel="stylesheet" href="styles/style.css" type="text/css">
 	<script src="js/imagecycle.js"></script>
+    
+    <link rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Montserrat">
+    
+    <link rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Open+Sans">
 </head>
 
 <body>
