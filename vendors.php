@@ -31,15 +31,53 @@
                 <h2 id="food">Food</h2>
                     <ul>
                         <li>
-                            <p></p>
+                            <p class="name">Cornell Orchards</p>
+                            <p>A variety of apples from Cornell's own apple orchard</p>
                         </li>
 
                         <li>
-                            <p></p>
+                            <p class="name">Autumn's Harvest Farm</p>
+                            <p>Pasture-raised meats</p>
                         </li>
 
                         <li>
-                            <p></p>
+                            <p class="name">Bellwether Hard Cider and Wine Cellars</p>
+                            <p>Hard cider and wine</p>
+                        </li>
+                        
+                        <li>
+                            <p class="name">Black Diamond Farm</p>
+                            <p>Apples, peaches, plums, berries, grapes, hard cider and more</p>
+                        </li>
+                        
+                        <li>
+                            <p class="name">Bluebird Bakery</p>
+                            <p>Selection of fine baked goods with a seasonal flare</p>
+                        </li>
+                        
+                        <li>
+                            <p class="name">Cactus Heads</p>
+                            <p>Can't beat these eats! Belgium Waffles and Chiles Rellenos</p>
+                        </li>
+                        
+                        <li>
+                            <p class="name">Damiani Wine Cellars</p>
+                            <p>Dry reds, elegant whites, and sparkling wines</p>
+                        </li>
+                        
+                        <li>
+                            <p class="name">Enat Ethiopian Cuisine</p>
+                            <p>Authentic and unique tasting food from Ethiopia</p>
+                        </li>
+                        
+                        <li>
+                            <p class="name">Ithaca Organics</p>
+                            <p>We are a family run farm snce 1997, offering a CSA</p>
+                        </li>
+                        
+                        <li>
+                            <p class="name">Littletree Orchards</p>
+                            <p>Family run, pick-your-own orchard open seasonally</p>
                         </li>
                     </ul>
             </div> <!--end of vendors-food div -->
@@ -69,6 +107,11 @@
                         <li>
                             <p class="name">H+M Hammocks</p>
                             <p>Hand Dyed and Hand Woven Hammock Chairs</p>
+                        </li>
+                        
+                        <li>
+                            <p class="name">Gourdlandia</p>
+                            <p>Functional art from gourds!</p>
                         </li>
 
                         <li>
