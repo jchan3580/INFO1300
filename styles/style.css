@@ -23,10 +23,6 @@ html,body{
     background-image: url(../images/apples_banner.jpg)
 }
 
-#sm {
-    float: right;
-}
-
 #banner h1 {
     padding-top: 0.1em;
     padding-bottom: 0em;
@@ -90,31 +86,10 @@ html,body{
     margin-left:auto;
 }
 
-#buttons {
-    display: block;
-    margin: auto;
-    width: 40%;
-}
+/** Social Media css */
 
-#photo1 {
-    float: left;
-    width:31%;
-    margin-left: 3%;
-}
-
-#photo2 {
-    float: left;
-    /*position: relative;*/
-    width:34%;
-}
-
-#photo3 {
-    float: left;
-    width:30%;
-}
-
-#content {
-	display: inline-block;
+#sm {
+    float: right;
 }
 
 #sm-content {
@@ -132,6 +107,10 @@ html,body{
     display: block;
     width: 100%;
     height: 100%;
+}
+
+#sm-content ul li span {
+    visibility: hidden;
 }
 
 .facebook {
@@ -156,8 +135,33 @@ html,body{
     border-right: none !important;
 }
 
-#sm-content ul li span {
-    visibility: hidden;
+/**index.php css */
+
+#photo1 {
+    float: left;
+    width:31%;
+    margin-left: 3%;
+}
+
+#photo2 {
+    float: left;
+    width:34%;
+}
+
+#photo3 {
+    float: left;
+    width:30%;
+}
+
+#content {
+	display: inline-block;
+}
+
+/** Gallery.php css */
+
+#galleryphotos {
+    width: 95%;
+    margin-left: 12%;
 }
 
 /** Transportation.php css */
