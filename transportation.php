@@ -33,16 +33,29 @@
 	</div> <!-- end of map div -->
         <div id = "tcat">
             <h2>Bus Routes via TCAT</h2>
-            <div id = "cornell-bus">
-                <h3>From Cornell:</h3>
-            </div> <!-- end of cornell-bus div -->
-            <div id = "ic-bus">
-                <h3>From Ithaca College:</h3>
-            </div> <!-- end of ic-bus div -->
+            <!-- TCAT bus route info source: https://tcat.nextinsight.com/summary.php?stopid=1010 -->
+            <figure> 
+                <table>
+                    <tr>
+                        <th></th>
+                        <th>Route #s</th>
+                    </tr>
+                    <tr>
+                        <td>Cornell</td>
+                        <td>30, 31, 32, 36, 37, 40, 43, 51, 65, 70, 72, 90</td>
+                    </tr>
+                    <tr>
+                        <td>Ithaca College</td>
+                        <td>11, 65</td>
+                    </tr>
+                </table>
+            </figure>
+            
         </div> <!-- end of tcat div -->
     
         <div id= "Taxi Services">
            <h2>Ithaca Taxi Services</h2>
+            <!-- Ithaca taxi services source: https://www.google.com/#q=ithaca+taxi+services -->
             <figure> 
                 <table>
                     <tr>
