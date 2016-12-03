@@ -43,14 +43,22 @@
         	<button onclick="change(1);">Next</button>
 		</div>-->
 		<div id= "photo1">
+			<a href="gallery.php">
 			<img src="images/apple_fest.jpeg" alt="Apple Fest">
+			</a>
 		</div>
 		<div id="photo2">
+			<a href="gallery.php">
             <img src="images/DSC_0510.JPG" alt="Maple Syrup">
+            </a>
+            <a href="gallery.php">
             <img src="images/DSC_0687.JPG" alt="Apples">
+            </a>
         </div>
         <div id="photo3">
+        	<a href="gallery.php">
         	<img src="images/IMG_3882.jpg" alt="Ithaca Commons">
+        	</a>
         </div>
 		<div id="content">
 			<h1>About</h1>
