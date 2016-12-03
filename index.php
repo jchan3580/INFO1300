@@ -42,13 +42,11 @@
 			<button onclick="change(0);">Previous</button>
         	<button onclick="change(1);">Next</button>
 		</div>-->
-		<div id= "photo1">
+		<div id="photos">
 			<img src="images/apple_fest.jpeg" alt="Apple Fest">
-		</div>
-		<div id="photo2">
             <img src="images/DSC_0510.JPG" alt="Maple Syrup">
-            <img src="images/DSC_0687.JPG" alt="Apples">\
-        </div>
+            <img src="images/DSC_0687.JPG" alt="Apples">
+		</div>
 		<div id="content">
 			<h1>About</h1>
 				<p>For 34 years, Ithaca, NY has hosted plenty of apples, local produce, fresh baked goods, fun entertainment and live performances on two stages. The Apple Harvest Festival is always a great introduction to the rich farm and artist community of Ithaca.</p> 
@@ -59,7 +57,19 @@
             
 			<h1>Featured Events</h1>
 				<h3>Free Events</h3>
-					<p>Integer vitae faucibus dolor. Nullam sed libero fringilla, dapibus velit nec, consequat ex. Quisque consequat sapien neque, ut mollis metus viverra sed. In commodo risus lorem, in malesuada nisi euismod eu. Duis vel dolor non erat sodales molestie eget id risus. Integer rhoncus magna nec eleifend fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis efficitur sollicitudin. Aliquam tristique nisi nec ullamcorper vehicula. Ut in lorem egestas, gravida erat at, facilisis est.</p>
+					<ul>
+                        <li>
+                            <p>92 WICB will be MC'ing and giving away fun prizes @ main stage</p>
+                        </li>
+
+                        <li>
+                            <p>The Fun Zone: free crafts and games available in the Center Ithaca Lobby while supplies last each day</p>
+                        </li>
+                        
+                        <li>
+                            <p>SATURDAY 1:45-2pm: GIVEAWAYS @ main stage</p>
+                        </li>
+            </ul>
 				<h3>Main Stage</h3>
 					<p>Integer vitae faucibus dolor. Nullam sed libero fringilla, dapibus velit nec, consequat ex. Quisque consequat sapien neque, ut mollis metus viverra sed. In commodo risus lorem, in malesuada nisi euismod eu. Duis vel dolor non erat sodales molestie eget id risus. Integer rhoncus magna nec eleifend fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis efficitur sollicitudin. Aliquam tristique nisi nec ullamcorper vehicula. Ut in lorem egestas, gravida erat at, facilisis est.</p>
 			<h1>Directions</h1>
