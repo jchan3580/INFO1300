@@ -93,6 +93,7 @@ html,body{
 
 #vendors-content .name{
     font-weight: bold;
+    margin-bottom: -0.9em;
 }
 
 #vendors-food {
