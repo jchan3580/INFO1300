@@ -91,12 +91,8 @@ html,body{
     margin-left: 5%;
 }
 
-#vendors-content li {
+#vendors-content .name{
     font-weight: bold;
-}
-
-#vendors-content p {
-    font-weight: normal;
 }
 
 #vendors-food {
