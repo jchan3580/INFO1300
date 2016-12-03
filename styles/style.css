@@ -95,6 +95,10 @@ html,body{
     font-weight: bold;
 }
 
+#vendors-content p {
+    font-weight: normal;
+}
+
 #vendors-food {
     float: left;
     width: 50%;
