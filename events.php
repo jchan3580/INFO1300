@@ -11,6 +11,7 @@
 	<div id="sticky_header">
 		<div id="banner">
 			<h1>Apple Harvest Festival</h1>
+            <h3>Sept 30-Oct 2, 2016</h3>
 			<?php
 			include 'includes/sm.php';
 			?>
