@@ -15,9 +15,6 @@
 			include 'includes/sm.php';
 			?>
 		</div> <!-- end of banner div -->
-		<?php
-		include 'includes/sm.php';
-		?>
 		<div id="nav_bar">
 			<span class="navspan"><a href = "index.php"> Home </a></span>
 			<span class="navspan"><a href = "vendors.php"> Vendors </a></span>
