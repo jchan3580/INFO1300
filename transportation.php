@@ -32,31 +32,35 @@
 	
 	</div> <!-- end of map div -->
         <div id = "tcat">
-            <h1>Bus Routes via TCAT</h1>
+            <h2>Bus Routes via TCAT</h2>
             <div id = "cornell-bus">
-                <h2>From Cornell:</h2>
+                <h3>From Cornell:</h3>
             </div> <!-- end of cornell-bus div -->
             <div id = "ic-bus">
-                <h2>From Ithaca College:</h2>
+                <h3>From Ithaca College:</h3>
             </div> <!-- end of ic-bus div -->
         </div> <!-- end of tcat div -->
     
         <div id= "Taxi Services">
-           <h3>Ithaca Taxi Services</h3>
+           <h2>Ithaca Taxi Services</h2>
             <figure> 
                 <table>
-                  <tr>
-                    <th>Company</th>
-                    <th>Phone #</th>
-                  </tr>
-                  <tr>
-                    <td>Collegetown Cab</td>
-                    <td>(607)588-8888</td>
-                  </tr>
-                  <tr>
-                    <td>Ithaca Dispatch</td>
-                    <td>(607)277-7777</td>
-                  </tr>
+                    <tr>
+                        <th>Company</th>
+                        <th>Phone #</th>
+                    </tr>
+                    <tr>
+                        <td>Collegetown Cab</td>
+                        <td>(607) 588-8888</td>
+                    </tr>
+                    <tr>
+                        <td>Ithaca Dispatch</td>
+                        <td>(607) 277-7777</td>
+                    </tr>
+                    <tr>
+                        <td>University Taxi</td>
+                        <td>(607) 272-3333</td>
+                    </tr>
                 </table>
             </figure>
         </div> <!--end of Taxi Services div -->
