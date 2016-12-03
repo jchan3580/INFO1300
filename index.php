@@ -37,7 +37,6 @@
 			<span class="navspan"><a href = "contact.php"> Contact Us </a></span>
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
-
 	<div id="main">
 		<!--<div class="buttons">
 			<button onclick="change(0);">Previous</button>
@@ -60,6 +59,9 @@
 				<p>Vestibulum facilisis eros a lacus commodo, sed facilisis erat malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus malesuada posuere eros, sed maximus leo tempus et. Sed at tempor nisl. Quisque nec ex in libero dapibus cursus ut in sapien. Phasellus ante velit, congue ac tortor sed, vehicula sodales elit. Suspendisse id nisi lorem. Fusce vitae neque dignissim, aliquam ex non, ultrices erat. Nulla elementum, nulla sit amet gravida malesuada, enim ipsum ullamcorper nunc, nec maximus leo quam quis nunc. Quisque fermentum felis in dignissim dignissim. In aliquet tristique massa. Quisque pretium suscipit mattis.</p>
 		</div> <!-- end of content div -->
 	</div> <!-- end of main div -->
+	<div id = "twitfeed">
+	<a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div> <!-- end of twitfeed div -->
 </body>
 
 </html>

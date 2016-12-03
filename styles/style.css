@@ -61,10 +61,11 @@ html,body{
 }
 
 #main {
+    float:left;
 	margin-top: 12.8em;
 	margin-right: auto;
-	margin-left: auto;
-	width: 75%;
+	margin-left: 3em;
+	width: 70%;
 }
 
 #main h1 {
@@ -79,6 +80,14 @@ html,body{
 
 #main p {
     font-family: 'Open sans', sans-serif;
+}
+
+#twitfeed {
+    float:right;
+    width:25%;
+    margin-top: 12.8em;
+    margin-right: -4em;
+    margin-left:auto;
 }
 
 #buttons {

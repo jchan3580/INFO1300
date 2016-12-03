@@ -27,5 +27,8 @@
 	</div> <!-- end of stickyheader div -->
 	<div id = "main">
 	</div> <!-- end of main div -->
+	<div id = "twitfeed">
+	<a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div> <!-- end of twitfeed div -->
 </body>
 </html>
