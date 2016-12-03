@@ -69,8 +69,7 @@
             
                 <p>Over 100 vendors will be selling unique apple varieties, hot apple cider donuts, kettle corn, local farm fresh baked goods and a multitude of around the world specialties. Local farmers are on site selling everything from tasty apple beverages to local pumpkins and of course, apples, apples and more apples. Wineries and cideries have regional beverages available for tasting and purchase and 50 different handcrafting artisans along Cayuga Street will be offering one of a kind items for purchase. </p>
             
-			<h1>Featured Events</h1>
-				<h3>Free Events</h3>
+			<h1>Featured Free Events</h1>
 				    <ul>
                         <li>
                             <p>92 WICB will be MC'ing and giving away fun prizes @ main stage</p>
@@ -83,23 +82,13 @@
                         <li>
                             <p>SATURDAY 1:45-2pm: GIVEAWAYS @ main stage</p>
                         </li>
-                    </ul>
-				<h3>Main Stage</h3>
-					<ul>
+                 
                         <li>
-                            <p>SATURDAY 1:00-1:45PM: Riley Owens (Acoustic Pop)</p>
+                            <p>SATURDAY 1:00-1:45PM: Riley Owens (Acoustic Pop) @ main stage</p>
                         </li>
 
                         <li>
-                            <p>SUNDAY 10:00-10:45AM: IC Voicestream, Ithacapella, Premium Blend</p>
-                        </li>
-                        
-                        <li>
-                            <p>SUNDAY 2:00-3:00PM: Dapper Dan plays Apple Harvest Fest</p>
-                        </li>
-                        
-                        <li>
-                            <p>SUNDAY 4:30-5:00PM: Mirage Belly Dancers</p>
+                            <p>SUNDAY 10:00-10:45AM: IC Voicestream, Ithacapella, Premium Blend @ main stage</p>
                         </li>
                     </ul>
 			<h1>Directions</h1>

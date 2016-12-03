@@ -26,6 +26,35 @@
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
 	<div id = "main">
+        <h2>Food</h2>
+            <ul>
+                <li>
+                    <p>92 WICB will be MC'ing and giving away fun prizes @ main stage</p>
+                </li>
+
+                <li>
+                    <p>The Fun Zone: free crafts and games available in the Center Ithaca Lobby while supplies last each day</p>
+                </li>
+
+                <li>
+                    <p>SATURDAY 1:45-2pm: GIVEAWAYS @ main stage</p>
+                </li>
+            </ul>
+        
+        <h2>Crafts and other goods</h2>
+            <ul>
+                <li>
+                    <p>92 WICB will be MC'ing and giving away fun prizes @ main stage</p>
+                </li>
+
+                <li>
+                    <p>The Fun Zone: free crafts and games available in the Center Ithaca Lobby while supplies last each day</p>
+                </li>
+
+                <li>
+                    <p>SATURDAY 1:45-2pm: GIVEAWAYS @ main stage</p>
+                </li>
+            </ul>
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
