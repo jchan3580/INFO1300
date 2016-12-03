@@ -44,9 +44,9 @@ html,body{
 
 #nav_bar {
 	text-align: left;
-    height: 1.4em;
+    height: 1em;
 	width: 100%;
-	padding: 1.2em;
+	padding: 1em;
     background-color: #ca3136;
     color: white;
     font-family: 'Open Sans', sans-serif;
@@ -122,7 +122,7 @@ html,body{
 
 #sm-content ul li {
     display: inline-block;
-    height: 2px;
+    height: 2em;
     border-right: 1px dashed #a7a7a7;
 }
 
@@ -151,7 +151,7 @@ html,body{
     height: 45px;
     background: url(../images/youtube.jpeg) no-repeat center center;
     padding: 0 10px;
-    border-right: none;
+    border-right: none !important;
 }
 
 #sm-content ul li span {
