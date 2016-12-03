@@ -34,7 +34,7 @@
         <div id = "tcat">
             <h2>Bus Routes via TCAT</h2>
             <!-- TCAT bus route info source: https://tcat.nextinsight.com/summary.php?stopid=1010 -->
-            <figure> 
+            <figure class=transportation> 
                 <table>
                     <tr>
                         <th>To and From Commons</th>
@@ -57,7 +57,7 @@
            <h2>Ithaca Taxi Services</h2>
             <!-- Ithaca taxi services source: https://www.google.com/#q=ithaca+taxi+services -->
             <figure> 
-                <table>
+                <table class=transportation>
                     <tr>
                         <th>Company</th>
                         <th>Phone #</th>

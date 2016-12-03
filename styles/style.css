@@ -186,8 +186,7 @@ html,body{
     width:20%;
 }
 
-
-table{
+.transportation table{
     border-collapse:collapse;
     border-spacing: 0;
     font-family: 'Open sans', sans-serif;
@@ -195,7 +194,7 @@ table{
     margin-top: 1.5em;
 }
 
-table, th, td {
+.transportation table, th, td {
     border: 1px solid;
     padding: 0.75em;
     text-align: center;
