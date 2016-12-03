@@ -68,12 +68,7 @@ html,body{
 	width: 75%;
 }
 
-#main h1 {
-    font-family: 'Montserrat', sans-serif;
-    color: #ca3136;
-}
-
-#main h3 {
+#main h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
     color: #ca3136;
 }
