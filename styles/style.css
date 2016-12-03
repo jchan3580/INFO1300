@@ -98,13 +98,18 @@ html,body{
 
 #photo1 {
     float: left;
+    width:30%;
 }
 
 #photo2 {
-    float: right;
+    float: left;
     /*position: relative;*/
-    margin-right: 225px;
-    width: 50%;
+    width:40%;
+}
+
+#photo3 {
+    float: left;
+    width:30%;
 }
 
 #content {
