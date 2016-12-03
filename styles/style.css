@@ -31,12 +31,14 @@ html,body{
     padding-top: 1em;
     padding-bottom: 0em;
     margin: 0em;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #banner h3 {
     padding-top: 0em;
     padding-bottom: 1em;
     margin: 0em;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #nav_bar {
@@ -46,6 +48,7 @@ html,body{
 	padding: 1.2em;
     background-color: #ca3136;
     color: white;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #nav_bar a {
@@ -62,6 +65,18 @@ html,body{
 	margin-right: auto;
 	margin-left: auto;
 	width: 75%;
+}
+
+#main h1 {
+     font-family: 'Montserrat', sans-serif;
+}
+
+#main h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#main p {
+    font-family: 'Open sans', sans-serif;
 }
 
 #buttons {
