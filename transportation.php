@@ -45,18 +45,22 @@
            <h3>Ithaca Taxi Services</h3>
             <figure> 
                 <table>
-                  <tr>
-                    <th>Company</th>
-                    <th>Phone #</th>
-                  </tr>
-                  <tr>
-                    <td>Collegetown Cab</td>
-                    <td>(607)588-8888</td>
-                  </tr>
-                  <tr>
-                    <td>Ithaca Dispatch</td>
-                    <td>(607)277-7777</td>
-                  </tr>
+                    <tr>
+                        <th>Company</th>
+                        <th>Phone #</th>
+                    </tr>
+                    <tr>
+                        <td>Collegetown Cab</td>
+                        <td>(607) 588-8888</td>
+                    </tr>
+                    <tr>
+                        <td>Ithaca Dispatch</td>
+                        <td>(607) 277-7777</td>
+                    </tr>
+                    <tr>
+                        <td>University Taxi</td>
+                        <td>(607) 272-3333</td>
+                    </tr>
                 </table>
             </figure>
         </div> <!--end of Taxi Services div -->
