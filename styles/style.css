@@ -44,9 +44,9 @@ html,body{
 
 #nav_bar {
 	text-align: left;
-    height: 1em;
+    height: 1.4em;
 	width: 100%;
-	padding: 1em;
+	padding: 0.5em;
     background-color: #ca3136;
     color: white;
     font-family: 'Open Sans', sans-serif;
@@ -63,7 +63,7 @@ html,body{
 
 #main {
     float:left;
-	margin-top: 12.8em;
+	margin-top: 12.4em;
 	margin-right: auto;
 	margin-left: 3em;
 	width: 75%;
@@ -85,7 +85,7 @@ html,body{
 #twitfeed {
     float:right;
     width:18%;
-    margin-top: 12.8em;
+    margin-top: 12.4em;
     margin-right: auto;
     margin-left:auto;
 }
@@ -98,7 +98,8 @@ html,body{
 
 #photo1 {
     float: left;
-    width:30%;
+    width:31%;
+    margin-left: 3%;
 }
 
 #photo2 {
