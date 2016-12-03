@@ -47,39 +47,48 @@
                 <h2 id="crafts">Crafts and other goods</h2>
                     <ul>
                         <li>
-                            <p>17th Century Suds: Ithaca Soap</p>
+                            <p>17th Century Suds</p>
+                            <p>Ithaca Soap</p>
                         </li>
 
                         <li>
-                            <p>Caywood Stone Jewlery: Jewelry found from stones found in the Finger lakes</p>
+                            <p>Caywood Stone Jewlery</p>
+                            <p>Jewelry found from stones found in the Finger lakes</p>
                         </li>
 
                         <li>
-                            <p>Where the Wild Things Grow: Terrariums of all shapes and sizes!</p>
+                            <p>Where the Wild Things Grow</p>
+                            <p>Terrariums of all shapes and sizes!</p>
                         </li>
 
                         <li>
-                            <p>Clothwork Tapestry Bags: Fine, functional, affordable tapestry bags</p>
+                            <p>Clothwork Tapestry Bags</p>
+                            <p>Fine, functional, affordable tapestry bags</p>
                         </li>
 
                         <li>
-                            <p>H+M Hammocks: Hand Dyed and Hand Woven Hammock Chairs</p>
+                            <p>H+M Hammocks</p>
+                            <p>Hand Dyed and Hand Woven Hammock Chairs</p>
                         </li>
 
                         <li>
-                            <p>AE Wooden Toys: Handmade wooden toys</p>
+                            <p>AE Wooden Toys</p>
+                            <p>Handmade wooden toys</p>
                         </li>
 
                         <li>
-                            <p>Silk Oak: Hand silk screened clothing handmade in Ithaca since 1977</p>
+                            <p>Silk Oak</p>
+                            <p>Hand silk screened clothing handmade in Ithaca since 1977</p>
                         </li>
 
                         <li>
-                            <p>The Art and Found: Handcrafted sun hats</p>
+                            <p>The Art and Found</p>
+                            <p>Handcrafted sun hats</p>
                         </li>
 
                         <li>
-                            <p>Under the Tree/ Frog Hill Pottery: Handmade durable stoneware with glazes made from local clay</p>
+                            <p>Under the Tree/ Frog Hill Pottery</p>
+                            <p>Handmade durable stoneware with glazes made from local clay</p>
                         </li>
                     </ul>
             </div> <!-- end of vendors-crafts div -->

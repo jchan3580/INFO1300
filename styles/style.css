@@ -91,6 +91,10 @@ html,body{
     margin-left: 5%;
 }
 
+#vendors-content li {
+    font-weight: bold;
+}
+
 #vendors-food {
     float: left;
     width: 50%;
