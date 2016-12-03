@@ -51,7 +51,7 @@
 			<h1>About</h1>
 				<p>For 34 years, Ithaca, NY has hosted plenty of apples, local produce, fresh baked goods, fun entertainment and live performances on two stages. The Apple Harvest Festival is always a great introduction to the rich farm and artist community of Ithaca.</p> 
             
-                <p class="34th">This year, at the <span>34th Annual Great Downtown Ithaca Apple Harvest festival</span>, first time visitors can witness a variety of wonderful local entertainment while also visiting the historical outdoor pedestrian shopping mall, The Ithaca Commons.  The pedestrian mall is the epicenter of the festival and the gateway to a nostalgic journey to harvest season fun.</p>
+                <p id="34th">This year, at the <span>34th Annual Great Downtown Ithaca Apple Harvest festival</span>, first time visitors can witness a variety of wonderful local entertainment while also visiting the historical outdoor pedestrian shopping mall, The Ithaca Commons.  The pedestrian mall is the epicenter of the festival and the gateway to a nostalgic journey to harvest season fun.</p>
             
                 <p>Over 100 vendors will be selling unique apple varieties, hot apple cider donuts, kettle corn, local farm fresh baked goods and a multitude of around the world specialties. Local farmers are on site selling everything from tasty apple beverages to local pumpkins and of course, apples, apples and more apples. Wineries and cideries have regional beverages available for tasting and purchase and 50 different handcrafting artisans along Cayuga Street will be offering one of a kind items for purchase. </p>
             
