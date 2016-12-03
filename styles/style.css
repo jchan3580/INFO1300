@@ -77,7 +77,8 @@ html,body{
     font-family: 'Open sans', sans-serif;
 }
 
-#34th span {font-weight: bold;
+#main p span {
+    font-weight: bold;
 }
 
 #twitfeed {
