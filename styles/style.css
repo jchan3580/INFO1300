@@ -116,13 +116,13 @@ html,body{
 }
 
 #sm-content {
-    padding-right: 5em;
+    padding-right: 2em;
     padding-left: 1em;
 }
 
 #sm-content ul li {
     display: inline-block;
-    height: 45px;
+    height: 2px;
     border-right: 1px dashed #a7a7a7;
 }
 
