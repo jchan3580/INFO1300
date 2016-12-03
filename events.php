@@ -24,5 +24,7 @@
 			<span class="navspan"><a href = "contact.php"> Contact Us </a></span>
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
+	<div id = "main">
+	</div> <!-- end of main div -->
 </body>
 </html>

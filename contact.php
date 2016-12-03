@@ -24,5 +24,7 @@
 			<span class="navspan">Contact Us</span>
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
+	<div id = "main">
+	</div> <!-- end of main div -->
 </body>
 </html>
