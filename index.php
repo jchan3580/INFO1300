@@ -93,7 +93,7 @@
                     </ul>
 			<h1>Directions</h1>
                 <p>Take a TCAT public bus, an Ithaca cab service, or walk from your campus to the Ithaca Commons!</p>
-                <p>Visit our <a href="transportation.php">Transportation</a> page for more detailed transportation information to the festival</p>
+                <p>Visit our <a href="transportation.php">Transportation</a> page for more detailed transportation information to the festival.</p>
 		</div> <!-- end of content div -->
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">
