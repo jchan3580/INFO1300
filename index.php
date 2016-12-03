@@ -71,9 +71,25 @@
                         <li>
                             <p>SATURDAY 1:45-2pm: GIVEAWAYS @ main stage</p>
                         </li>
-            </ul>
+                    </ul>
 				<h3>Main Stage</h3>
-					<p>Integer vitae faucibus dolor. Nullam sed libero fringilla, dapibus velit nec, consequat ex. Quisque consequat sapien neque, ut mollis metus viverra sed. In commodo risus lorem, in malesuada nisi euismod eu. Duis vel dolor non erat sodales molestie eget id risus. Integer rhoncus magna nec eleifend fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis efficitur sollicitudin. Aliquam tristique nisi nec ullamcorper vehicula. Ut in lorem egestas, gravida erat at, facilisis est.</p>
+					<ul>
+                        <li>
+                            <p>SATURDAY 1:00-1:45PM: Riley Owens (Acoustic Pop)</p>
+                        </li>
+
+                        <li>
+                            <p>SUNDAY 10:00-10:45AM: IC Voicestream, Ithacapella, Premium Blend</p>
+                        </li>
+                        
+                        <li>
+                            <p>SUNDAY 2:00-3:00PM: Dapper Dan plays Apple Harvest Fest</p>
+                        </li>
+                        
+                        <li>
+                            <p>SUNDAY 4:30-5:00PM: Mirage Belly Dancers</p>
+                        </li>
+                    </ul>
 			<h1>Getting There</h1>
 				<p>Take a TCAT public bus, an Ithaca cab service, or walk from your campus to the Ithaca Commons!</p>
                 <p>Visit our <a href="transportation.php">Transportation</a> page for more detailed transportation information to the festival</p>
