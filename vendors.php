@@ -26,61 +26,65 @@
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
 	<div id = "main">
-        <h2 id=food>Food</h2>
-            <ul>
-                <li>
-                    <p>92 WICB will be MC'ing and giving away fun prizes @ main stage</p>
-                </li>
+        <div id ="vendors-content">
+            <div id="vendors-food">
+                <h2 id="food">Food</h2>
+                    <ul>
+                        <li>
+                            <p></p>
+                        </li>
 
-                <li>
-                    <p>The Fun Zone: free crafts and games available in the Center Ithaca Lobby while supplies last each day</p>
-                </li>
+                        <li>
+                            <p></p>
+                        </li>
 
-                <li>
-                    <p>SATURDAY 1:45-2pm: GIVEAWAYS @ main stage</p>
-                </li>
-            </ul>
-        
-        <h2 id=crafts>Crafts and other goods</h2>
-            <ul>
-                <li>
-                    <p>17th Century Suds: Ithaca Soap</p>
-                </li>
-                
-                
-                <li>
-                    <p>Caywood Stone Jewlery: Jewelry found from stones found in the Finger lakes</p>
-                </li>
+                        <li>
+                            <p></p>
+                        </li>
+                    </ul>
+            </div> <!--end of vendors-food div -->
+            <div id= "vendors-crafts">
+                <h2 id="crafts">Crafts and other goods</h2>
+                    <ul>
+                        <li>
+                            <p>17th Century Suds: Ithaca Soap</p>
+                        </li>
 
-                <li>
-                    <p>Where the Wild Things Grow: Terrariums of all shapes and sizes!</p>
-                </li>
+                        <li>
+                            <p>Caywood Stone Jewlery: Jewelry found from stones found in the Finger lakes</p>
+                        </li>
 
-                <li>
-                    <p>Clothwork Tapestry Bags: Fine, functional, affordable tapestry bags</p>
-                </li>
-                
-                <li>
-                    <p>H+M Hammocks: Hand Dyed and Hand Woven Hammock Chairs</p>
-                </li>
-                
-                <li>
-                    <p>AE Wooden Toys: Handmade wooden toys</p>
-                </li>
+                        <li>
+                            <p>Where the Wild Things Grow: Terrariums of all shapes and sizes!</p>
+                        </li>
 
-                <li>
-                    <p>Silk Oak: Hand silk screened clothing handmade in Ithaca since 1977</p>
-                </li>
-                
-                <li>
-                    <p>The Art and Found: Handcrafted sun hats</p>
-                </li>
-                
-                <li>
-                    <p>Under the Tree/ Frog Hill Pottery: Handmade durable stoneware with glazes made from local clay</p>
-                </li>
-            </ul>
-	</div> <!-- end of main div -->
+                        <li>
+                            <p>Clothwork Tapestry Bags: Fine, functional, affordable tapestry bags</p>
+                        </li>
+
+                        <li>
+                            <p>H+M Hammocks: Hand Dyed and Hand Woven Hammock Chairs</p>
+                        </li>
+
+                        <li>
+                            <p>AE Wooden Toys: Handmade wooden toys</p>
+                        </li>
+
+                        <li>
+                            <p>Silk Oak: Hand silk screened clothing handmade in Ithaca since 1977</p>
+                        </li>
+
+                        <li>
+                            <p>The Art and Found: Handcrafted sun hats</p>
+                        </li>
+
+                        <li>
+                            <p>Under the Tree/ Frog Hill Pottery: Handmade durable stoneware with glazes made from local clay</p>
+                        </li>
+                    </ul>
+            </div> <!-- end of vendors-crafts div -->
+	   </div><!-- end of vendors-content div -->
+    </div> <!-- end of main div -->
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div> <!-- end of twitfeed div -->

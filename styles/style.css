@@ -86,6 +86,20 @@ html,body{
     margin-left:auto;
 }
 
+#vendors-content{
+    width: 90%;
+}
+
+#vendors-food {
+    float: left;
+    width: 50%;
+}
+
+#vendors-crafts {
+    float: right;
+    width: 50%;
+}
+
 /** Social Media css */
 
 #sm {
