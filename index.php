@@ -33,12 +33,14 @@
 	</div> <!-- end of stickyheader div -->
 
 	<div id="main">
-		<div class="buttons">
+		<!--<div class="buttons">
 			<button onclick="change(0);">Previous</button>
         	<button onclick="change(1);">Next</button>
-		</div>
+		</div>-->
 		<div id="photos">
-			<img id="main_img" src="images/apple_fest.jpeg" alt="Apple Fest">
+			<img src="images/apple_fest.jpeg" alt="Apple Fest">
+            <img src="images/DSC_0510.JPG" alt="Maple Syrup">
+            <img src="images/DSC_0687.JPG" alt="Apples">
 		</div>
 		<div id="content">
 			<h1>About</h1>
