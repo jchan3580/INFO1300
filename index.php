@@ -15,6 +15,13 @@
 			<h1>Apple Harvest Festival</h1>
             <h3>Sept 30-Oct 2, 2016</h3>
 		</div> <!-- end of banner div -->
+		<?php
+		include 'includes/sm.php';
+		?>
+		<!-- temporary links for sm images:
+		Facebook:http://downtownithaca.com/local/images/ad_fb.jpg
+		Twitter:http://downtownithaca.com/local/images/ad_twitter.jpg
+		Youtube:http://downtownithaca.com/local/images/ad_youtube.jpg-->
 		<div id="nav_bar">
 			<span class="navspan">Home</span>
 			<span class="navspan"><a href = "vendors.php"> Vendors </a></span>
@@ -45,13 +52,6 @@
 				<p>Vestibulum facilisis eros a lacus commodo, sed facilisis erat malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus malesuada posuere eros, sed maximus leo tempus et. Sed at tempor nisl. Quisque nec ex in libero dapibus cursus ut in sapien. Phasellus ante velit, congue ac tortor sed, vehicula sodales elit. Suspendisse id nisi lorem. Fusce vitae neque dignissim, aliquam ex non, ultrices erat. Nulla elementum, nulla sit amet gravida malesuada, enim ipsum ullamcorper nunc, nec maximus leo quam quis nunc. Quisque fermentum felis in dignissim dignissim. In aliquet tristique massa. Quisque pretium suscipit mattis.</p>
 		</div> <!-- end of content div -->
 	</div> <!-- end of main div -->
-	<?php
-	include 'includes/sm.php';
-	?>
-    <!-- temporary links for footer images:
-	Facebook:http://downtownithaca.com/local/images/ad_fb.jpg
-	Twitter:http://downtownithaca.com/local/images/ad_twitter.jpg
-	Youtube:http://downtownithaca.com/local/images/ad_youtube.jpg-->
 </body>
 
 </html>
