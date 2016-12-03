@@ -35,7 +35,7 @@
 		    <p>Email: info@downtownithaca.com</p>
 		</div> <!--end of content div -->
 		<div id = "dia-img">
-			<img src="images/dia.jpeg" alt="Downtown Ithaca">
+			<a href = "http://www.downtownithaca.com/"><img src="images/dia.jpeg" alt="Downtown Ithaca"></a>
 			<!-- URL: http://www.downtownithaca.com/local/file_upload/images/Screen%20Shot%202014-01-30%20at%208_54_03%20PM.png -->
 		</div> <!-- end of dia img div -->
 	</div> <!-- end of main div -->
