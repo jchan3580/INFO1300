@@ -91,6 +91,10 @@ html,body{
     margin-left: 5%;
 }
 
+#vendors-content h2{
+    text-align: center;
+}
+
 #vendors-content .name{
     font-weight: bold;
     margin-bottom: -0.9em;
