@@ -91,17 +91,18 @@ html,body{
     width: 40%;
 }
 
-#photos {
-    line-height: 0;
-    -webkit-column-count: 2;
-    -webkit-column-gap: 0px;
-    -moz-column-count: 2;
-    -moz-column-gap: 0px;
-    column-count: 2;
-    column-gap: 0px;
+#photo {
+    align-content: center;
 }
 
-#photos img {
+#photo1 {
+    float: left;
+}
+
+#photo2 {
+    float: right;
+    /*position: relative;*/
+    margin-right: 225px;
     width: 50%;
 }
 
