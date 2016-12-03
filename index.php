@@ -43,17 +43,18 @@
         	<button onclick="change(1);">Next</button>
 		</div>-->
 		<div id="photos">
-			<div id="photo1">
 			<img src="images/apple_fest.jpeg" alt="Apple Fest">
-			</div>
-			<div id="photo2">
             <img src="images/DSC_0510.JPG" alt="Maple Syrup">
             <img src="images/DSC_0687.JPG" alt="Apples">
-            </div>
 		</div>
 		<div id="content">
 			<h1>About</h1>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris risus enim, aliquam quis pretium ut, fringilla eget sapien. Fusce porta neque non justo porta ultrices. Sed pulvinar libero in finibus porta. Pellentesque a purus tellus. Duis risus lorem, iaculis eget bibendum sit amet, feugiat eget neque. Integer luctus leo sed urna vestibulum, et luctus ex volutpat. Ut vulputate sed enim eu maximus. Pellentesque tincidunt tincidunt nisi nec euismod. Nullam ut mollis arcu. Aenean consequat, tellus sed cursus convallis, ante ligula vehicula tellus, in egestas augue ipsum at orci. Aenean sit amet vestibulum nulla, nec posuere diam. Nam efficitur lorem egestas augue luctus, sed consectetur enim lacinia. Nunc rhoncus pulvinar risus vitae dignissim. Aenean lobortis sed urna quis tempus. Aenean consequat augue arcu, non suscipit est suscipit ut. Morbi malesuada enim sed elit placerat, eget vulputate lectus tincidunt.</p>
+				<p>For 34 years, Ithaca, NY has hosted plenty of apples, local produce, fresh baked goods, fun entertainment and live performances on two stages. The Apple Harvest Festival is always a great introduction to the rich farm and artist community of Ithaca.</p> 
+            
+                <p class="34th">This year, at the <span>34th Annual Great Downtown Ithaca Apple Harvest festival</span>, first time visitors can witness a variety of wonderful local entertainment while also visiting the historical outdoor pedestrian shopping mall, The Ithaca Commons.  The pedestrian mall is the epicenter of the festival and the gateway to a nostalgic journey to harvest season fun.</p>
+            
+                <p>Over 100 vendors will be selling unique apple varieties, hot apple cider donuts, kettle corn, local farm fresh baked goods and a multitude of around the world specialties. Local farmers are on site selling everything from tasty apple beverages to local pumpkins and of course, apples, apples and more apples. Wineries and cideries have regional beverages available for tasting and purchase and 50 different handcrafting artisans along Cayuga Street will be offering one of a kind items for purchase. </p>
+            
 			<h1>Featured Events</h1>
 				<h3>Free Events</h3>
 					<p>Integer vitae faucibus dolor. Nullam sed libero fringilla, dapibus velit nec, consequat ex. Quisque consequat sapien neque, ut mollis metus viverra sed. In commodo risus lorem, in malesuada nisi euismod eu. Duis vel dolor non erat sodales molestie eget id risus. Integer rhoncus magna nec eleifend fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean facilisis efficitur sollicitudin. Aliquam tristique nisi nec ullamcorper vehicula. Ut in lorem egestas, gravida erat at, facilisis est.</p>
