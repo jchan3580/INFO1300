@@ -24,7 +24,7 @@ html,body{
 }
 
 #sm {
-    
+    float: right;
 }
 
 #banner h1 {
@@ -41,8 +41,9 @@ html,body{
 
 #nav_bar {
 	text-align: center;
+    height:1.4em;
 	width: 100%;
-	padding: 5px;
+	padding: 1.2em;
     background-color: #6c2411;
     color: white;
 }
@@ -53,11 +54,11 @@ html,body{
 }
 
 .navspan {
-	padding: 10px;
+	padding: 0.8em;
 }
 
 #main {
-	margin-top: 10em;
+	margin-top: 12.8em;
 	margin-right: auto;
 	margin-left: auto;
 	width: 75%;
@@ -97,21 +98,21 @@ html,body{
 }
 
 .facebook {
-    width: 70px;
+    width: 50px;
     height: 45px;
     background: url(../images/facebook.jpeg) no-repeat center center;
     padding: 0 10px;
 }
 
 .twitter {
-    width: 70px;
+    width: 50px;
     height: 45px;
     background: url(../images/twitter.jpeg) no-repeat center center;
     padding: 0 10px;
 }
 
 .youtube {
-    width: 70px;
+    width: 50px;
     height: 45px;
     background: url(../images/youtube.jpeg) no-repeat center center;
     padding: 0 10px;
