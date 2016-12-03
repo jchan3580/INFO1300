@@ -42,8 +42,8 @@
         </div> <!-- end of tcat div -->
     
         <div id= "Taxi Services">
+           <h3>Ithaca Taxi Services</h3>
             <figure> 
-
                 <table>
                   <tr>
                     <th>Company</th>
