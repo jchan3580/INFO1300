@@ -32,12 +32,12 @@
 	
 	</div> <!-- end of map div -->
         <div id = "tcat">
-            <h1>Bus Routes via TCAT</h1>
+            <h2>Bus Routes via TCAT</h2>
             <div id = "cornell-bus">
-                <h2>From Cornell:</h2>
+                <h3>From Cornell:</h3>
             </div> <!-- end of cornell-bus div -->
             <div id = "ic-bus">
-                <h2>From Ithaca College:</h2>
+                <h3>From Ithaca College:</h3>
             </div> <!-- end of ic-bus div -->
         </div> <!-- end of tcat div -->
     
