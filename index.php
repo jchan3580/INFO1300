@@ -14,10 +14,10 @@
         <!-- banner image source: http://static.wixstatic.com/media/d4038b_a5c0a6f2d48448ef8e11806e7476cbe7.jpg -->
 			<h1>Apple Harvest Festival</h1>
             <h3>Sept 30-Oct 2, 2016</h3>
+            <?php
+			include 'includes/sm.php';
+			?>
 		</div> <!-- end of banner div -->
-		<?php
-		include 'includes/sm.php';
-		?>
 		<!-- temporary links for sm images:
 		Facebook:http://downtownithaca.com/local/images/ad_fb.jpg
 		Twitter:http://downtownithaca.com/local/images/ad_twitter.jpg
