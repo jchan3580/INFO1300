@@ -86,7 +86,7 @@
             </div> <!--end of mainstage-content div -->
             
             <div id ="otherstage-content">
-                <h2 id="otherstage">West State Street Theater</h2>
+                <h2 id="otherstage">West State Street</h2>
                     <h4 class="saturday">Saturday 10/1</h4>
                       <ul>
                             <li>
