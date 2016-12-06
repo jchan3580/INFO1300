@@ -117,21 +117,21 @@ html,body{
 
 .facebook {
     width: 50px;
-    height: 45px;
+    height: 50px;
     background: url(../images/facebook.jpeg) no-repeat center center;
     padding: 0 10px;
 }
 
 .twitter {
     width: 50px;
-    height: 45px;
+    height: 50px;
     background: url(../images/twitter.jpeg) no-repeat center center;
     padding: 0 10px;
 }
 
 .youtube {
     width: 50px;
-    height: 45px;
+    height: 50px;
     background: url(../images/youtube.jpeg) no-repeat center center;
     padding: 0 10px;
     border-right: none !important;
@@ -307,12 +307,35 @@ html,body{
     #banner{
         height: 4em;
         text-shadow: -1.0px 0 #d3bb3d, 0 1.0px #d3bb3d, 1.0px 0 #d3bb3d, 0 -1.0px #d3bb3d;
+        text-align: left
     }
-    
-    #sm {
-    float: none;
+
+    #sm{
+        margin-top: -4.4em;
+        margin-right:0.6em;
     }
-    
+
+    #sm-content {
+        padding-right: 0em;
+        padding-left: 0em;
+    }
+
+    #sm-content ul li {
+        display: inline-block;
+        height: 2.5em;
+        border-right: none;
+    }
+
+    .facebook{
+        padding: 0 0px;
+    } 
+    .twitter{
+        padding: 0 0px;
+    } 
+    .youtube{
+        padding: 0 0px;
+    }
+
     #nav_bar{
         padding-bottom: 8em;
     }
