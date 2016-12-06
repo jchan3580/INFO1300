@@ -298,6 +298,7 @@ html,body{
     
     html,body {
         font-size: 90%;
+        overflow: hidden;
     }
     
     #sticky_header {
