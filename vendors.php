@@ -31,11 +31,6 @@
                 <h2 id="food">Food</h2>
                     <ul>
                         <li>
-                            <p class="name">Cornell Orchards</p>
-                            <p>A variety of apples from Cornell's own apple orchard</p>
-                        </li>
-
-                        <li>
                             <p class="name">Autumn's Harvest Farm</p>
                             <p>Pasture-raised meats</p>
                         </li>
@@ -60,6 +55,11 @@
                             <p>Can't beat these eats! Belgium Waffles and Chiles Rellenos</p>
                         </li>
                         
+                        <li>
+                            <p class="name">Cornell Orchards</p>
+                            <p>A variety of apples from Cornell's own apple orchard</p>
+                        </li>
+
                         <li>
                             <p class="name">Damiani Wine Cellars</p>
                             <p>Dry reds, elegant whites, and sparkling wines</p>
@@ -86,6 +86,11 @@
                 <h2 id="crafts">Crafts and other goods</h2>
                     <ul>
                         <li>
+                            <p class="name">AE Wooden Toys</p>
+                            <p>Handmade wooden toys</p>
+                        </li>
+
+                        <li>
                             <p class="name">17th Century Suds</p>
                             <p>Ithaca Soap</p>
                         </li>
@@ -96,28 +101,18 @@
                         </li>
 
                         <li>
-                            <p class="name">Where the Wild Things Grow</p>
-                            <p>Terrariums of all shapes and sizes!</p>
-                        </li>
-
-                        <li>
                             <p class="name">Clothwork Tapestry Bags</p>
                             <p>Fine, functional, affordable tapestry bags</p>
                         </li>
 
-                        <li>
-                            <p class="name">H+M Hammocks</p>
-                            <p>Hand Dyed and Hand Woven Hammock Chairs</p>
-                        </li>
-                        
                         <li>
                             <p class="name">Gourdlandia</p>
                             <p>Functional art from gourds!</p>
                         </li>
 
                         <li>
-                            <p class="name">AE Wooden Toys</p>
-                            <p>Handmade wooden toys</p>
+                            <p class="name">H+M Hammocks</p>
+                            <p>Hand Dyed and Hand Woven Hammock Chairs</p>
                         </li>
 
                         <li>
@@ -133,6 +128,11 @@
                         <li>
                             <p class="name">Under the Tree/ Frog Hill Pottery</p>
                             <p>Handmade durable stoneware with glazes made from local clay</p>
+                        </li>
+
+                        <li>
+                            <p class="name">Where the Wild Things Grow</p>
+                            <p>Terrariums of all shapes and sizes!</p>
                         </li>
                     </ul>
             </div> <!-- end of vendors-crafts div -->
