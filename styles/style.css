@@ -296,6 +296,31 @@ html,body{
 
 @media screen and (min-width: 0px) and (max-width: 480px) {
     
+    html,body {
+        font-size: 90%;
+    }
+    
+    #sticky_header {
+	position: absolute;
+    }
+   
+    #banner{
+        height: 4em;
+        text-shadow: -1.0px 0 #d3bb3d, 0 1.0px #d3bb3d, 1.0px 0 #d3bb3d, 0 -1.0px #d3bb3d;
+    }
+    
+    #sm {
+    float: none;
+    }
+    
+    #nav_bar{
+        padding-bottom: 8em;
+    }
+    
+    #nav_bar a{
+        text-align: center;
+    }
+    
     .navspan {
         font-size: 0.8em;
         padding-bottom: 0.2em;
