@@ -459,6 +459,16 @@ caption {
     #vendors-content .name {
     margin-bottom: -0.3em;
     }
+    
+    #vendors-content h2 a{
+    text-decoration: none;
+    color: #ca3136;
+    }
+    
+    #events-content h2 a{
+    text-decoration: none;
+    color: #ca3136;
+    }
 
     #contact-content{
         width:100%;
