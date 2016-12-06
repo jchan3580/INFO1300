@@ -191,6 +191,35 @@ html,body{
     width: 48%;
 }
 
+/**Events.php css */
+
+#events-content{
+    margin-top: -1.3em;
+    width: 90%;
+    margin-left: 5%;
+}
+
+#events-content h2{
+    text-align: center;
+    border: 2px solid #ca3136;
+    border-radius: 5px;
+}
+
+#events-content ul {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+#mainstage-content {
+    float: left;
+    width: 48%;
+}
+
+#2ndstage-content {
+    float: right;
+    width: 48%;
+}
+
 /** Gallery.php css */
 
 #galleryphotos {
