@@ -46,8 +46,8 @@
 		</div>
 		<div id="photo2">
 			<a href="gallery.php">
-            <img src="images/DSC_0510.JPG" alt="Maple Syrup">
-            <!-- Photo taken by Amy Zhong-->
+            <img src="images/friends_full.jpg" alt="Four Friends">
+            <!--Photo from: http://66.media.tumblr.com/17f0ebd6be0a0d35cd8cf102edaa9fe6/tumblr_nvr2k9Ives1s17hwuo1_1280.jpg -->
             </a>
             <a href="gallery.php">
             <img src="images/DSC_0687.JPG" alt="Apples">
