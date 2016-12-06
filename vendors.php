@@ -145,6 +145,9 @@
                     </ul>
             </div> <!-- end of vendors-crafts div -->
 	    </div><!-- end of vendors-content div -->
+        <div id="map">
+            <img src="images/map.jpeg" alt="Map of Event">
+        </div>
     </div> <!-- end of main div -->
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="650" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
