@@ -338,9 +338,19 @@ html,body{
         margin-top: 17em;
         margin-left: 1em;
     }
-
+    
+    #content h1 {
+        text-align: center;
+        margin-bottom: 0em;
+    }
+    
     #photo1 {
         display: none;
+    }
+
+    #photo2 {
+        margin-right: 2.75em;
+        margin-left: 2.75em;
     }
 
     #photo3 {
