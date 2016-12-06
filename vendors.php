@@ -91,13 +91,13 @@
                 <h2 id="crafts">Crafts and other goods</h2>
                     <ul>
                         <li>
-                            <p class="name">AE Wooden Toys</p>
-                            <p>Handmade wooden toys</p>
+                            <p class="name">17th Century Suds</p>
+                            <p>Ithaca Soap</p>
                         </li>
 
                         <li>
-                            <p class="name">17th Century Suds</p>
-                            <p>Ithaca Soap</p>
+                            <p class="name">AE Wooden Toys</p>
+                            <p>Handmade wooden toys</p>
                         </li>
 
                         <li>
