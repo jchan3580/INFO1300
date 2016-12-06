@@ -135,6 +135,10 @@ html,body{
     border-right: none !important;
 }
 
+#twitterm{
+    display:none;
+}
+
 /**index.php css */
 
 #photo1 {
@@ -307,8 +311,11 @@ html,body{
         display: inline;
     }
 
-    #show {
-        display:block;
+    #twitfeed {
+        display:none;
     }
 
+    #twitterm{
+        display:block;
+    }
 }
