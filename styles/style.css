@@ -349,7 +349,8 @@ html,body{
     }
 
     #photo2 {
-        align-content: center;
+        margin-right: 2.75em;
+        margin-left: 2.75em;
     }
 
     #photo3 {
