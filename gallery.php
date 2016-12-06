@@ -40,6 +40,18 @@
 		<img src="images/IMG_1359.jpg" alt="Corn Stand">
 		<img src="images/IMG_1361.jpg" alt="Berry Stand">
 		<!---Photos IMG_1334.jpg, IMG_1345.jpg, IMG_1348.jpg, IMG_1353.jpg, IMG_1359.jpg, IMG_1361.jpg taken by Mariel Terr-->
+		<img src="images/band.jpg" alt="Band Playing">
+		<!--Photo from: http://www.ithaca.edu/depts/gallery_img/16036_full.jpg -->
+		<img src="images/candied_apples.jpg" alt="Candied Apples">
+		<!--Photo from: https://lh5.googleusercontent.com/-jGN4HC9EYKY/UGBcmmXuioI/AAAAAAAAAtg/ZUw80PyCnE4/w427-h283-n-k/apples.jpg-->
+		<img src="images/apple_crisp.jpg" alt="Apple Crisp Sign">
+		<!--Photo from http://www.gannett-cdn.com/-mm-/46aae64637c9c2f5358eb0aee3759b353ca261d6/r=880/http/bcdownload.gannett.edgesuite.net/bie/37906157001/201609/3534/37906157001_5149944761001_5149936928001-vs.jpg -->
+		<img src="images/apple_bags.jpg" alt="Apples In Bags">
+		<!--Photo from: http://www.news.cornell.edu/sites/chronicle.cornell/files/1014_11_003.jpg -->
+		<img src="images/friends.jpg" alt="Friends Together">
+		<!--Photo from: http://66.media.tumblr.com/17f0ebd6be0a0d35cd8cf102edaa9fe6/tumblr_nvr2k9Ives1s17hwuo1_1280.jpg -->
+		<img src="images/apples_in_baskets.jpg" alt="Apple Baskets">
+		<!--Photo from: http://www.eventcrazy.com/event/photos/352755_1_51_091611_115330.jpg -->
 		</div> <!-- end of galleryphotos div-->
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">
