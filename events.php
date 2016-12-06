@@ -83,6 +83,9 @@
                                 <p>4:30pm- Mirage Belly Dancers</p>
                             </li>
                         </ul>
+    		<?php
+			include 'includes/twitterm.php';
+		    ?>
             </div> <!--end of mainstage-content div -->
             
             <div id ="otherstage-content">
@@ -117,9 +120,6 @@
                         </ul>
             </div> <!--end of otherstage-content div -->
         </div> <!--end of events-content div -->
-		<?php
-			include 'includes/twitterm.php';
-		?>
 	</div> <!-- end of main div -->
     <!--events schedule information source: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
 	<div id = "twitfeed">
