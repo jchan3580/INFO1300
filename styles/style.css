@@ -339,8 +339,9 @@ html,body{
         margin-left: 1em;
     }
     
-    #main h1 {
+    #content h1 {
         text-align: center;
+        margin-bottom: 0em;
     }
     
     #photo1 {
