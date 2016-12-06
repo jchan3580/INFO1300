@@ -87,9 +87,7 @@
                             </li>
                         </ul>
                     </div><!--end of milton-content div -->
-    		<?php
-			include 'includes/twitterm.php';
-		    ?>
+    	
             </div> <!--end of mainstage-content div -->
             
             <div id ="otherstage-content">
@@ -130,6 +128,11 @@
         <div id="map">
             <img src="images/map.jpeg" alt="Map of Event">
         </div>
+        
+        <?php
+			include 'includes/twitterm.php';
+        ?>
+        
 	</div> <!-- end of main div -->
     <!--events schedule information source: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
     

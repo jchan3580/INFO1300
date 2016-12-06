@@ -89,9 +89,7 @@
                         </li>
                     </ul>
                 </div><!-- end of food-content div -->
-            <?php
-            include 'includes/twitterm.php';
-            ?>
+           
             </div> <!--end of vendors-food div -->
             
             <div id= "vendors-crafts">
@@ -155,6 +153,11 @@
         <div id="map">
             <img src="images/map.jpeg" alt="Map of Event">
         </div>
+        
+        <?php
+            include 'includes/twitterm.php';
+        ?>
+        
     </div> <!-- end of main div -->
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="650" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
