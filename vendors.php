@@ -5,6 +5,11 @@
 <head>
 	<title>Apple Harvest Festival</title>
 	<link rel="stylesheet" href="styles/style.css" type="text/css">
+    <link rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Montserrat">
+    
+    <link rel="stylesheet" type="text/css"
+    href="https://fonts.googleapis.com/css?family=Open+Sans">
 </head>
 
 <body>
@@ -31,11 +36,6 @@
                 <h2 id="food">Food</h2>
                     <ul>
                         <li>
-                            <p class="name">Cornell Orchards</p>
-                            <p>A variety of apples from Cornell's own apple orchard</p>
-                        </li>
-
-                        <li>
                             <p class="name">Autumn's Harvest Farm</p>
                             <p>Pasture-raised meats</p>
                         </li>
@@ -60,6 +60,11 @@
                             <p>Can't beat these eats! Belgium Waffles and Chiles Rellenos</p>
                         </li>
                         
+                        <li>
+                            <p class="name">Cornell Orchards</p>
+                            <p>A variety of apples from Cornell's own apple orchard</p>
+                        </li>
+
                         <li>
                             <p class="name">Damiani Wine Cellars</p>
                             <p>Dry reds, elegant whites, and sparkling wines</p>
@@ -91,13 +96,13 @@
                         </li>
 
                         <li>
-                            <p class="name">Caywood Stone Jewlery</p>
-                            <p>Jewelry found from stones found in the Finger lakes</p>
+                            <p class="name">AE Wooden Toys</p>
+                            <p>Handmade wooden toys</p>
                         </li>
 
                         <li>
-                            <p class="name">Where the Wild Things Grow</p>
-                            <p>Terrariums of all shapes and sizes!</p>
+                            <p class="name">Caywood Stone Jewlery</p>
+                            <p>Jewelry found from stones found in the Finger lakes</p>
                         </li>
 
                         <li>
@@ -106,18 +111,13 @@
                         </li>
 
                         <li>
-                            <p class="name">H+M Hammocks</p>
-                            <p>Hand Dyed and Hand Woven Hammock Chairs</p>
-                        </li>
-                        
-                        <li>
                             <p class="name">Gourdlandia</p>
                             <p>Functional art from gourds!</p>
                         </li>
 
                         <li>
-                            <p class="name">AE Wooden Toys</p>
-                            <p>Handmade wooden toys</p>
+                            <p class="name">H+M Hammocks</p>
+                            <p>Hand Dyed and Hand Woven Hammock Chairs</p>
                         </li>
 
                         <li>
@@ -133,6 +133,11 @@
                         <li>
                             <p class="name">Under the Tree/ Frog Hill Pottery</p>
                             <p>Handmade durable stoneware with glazes made from local clay</p>
+                        </li>
+
+                        <li>
+                            <p class="name">Where the Wild Things Grow</p>
+                            <p>Terrariums of all shapes and sizes!</p>
                         </li>
                     </ul>
             </div> <!-- end of vendors-crafts div -->
