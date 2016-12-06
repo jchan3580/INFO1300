@@ -429,6 +429,7 @@ html,body{
 
     #twitterm{
         display:block;
+        width: 100%;
     }
 
     #galleryphotos{
