@@ -205,8 +205,12 @@ html,body{
     border-radius: 5px;
 }
 
+#events-content h4 {
+    padding-left: 1em;
+}
+
 #events-content ul {
-    padding-left: 2em;
+    padding-left: 3em;
     padding-right: 2em;
 }
 
