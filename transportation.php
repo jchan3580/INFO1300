@@ -37,24 +37,6 @@
 	
 	</div> <!-- end of map div -->
         <div id = "tcat">
-            <h2>Bus Routes via TCAT</h2>
-            <!-- TCAT bus route info source: https://tcat.nextinsight.com/summary.php?stopid=1010 -->
-            <figure> 
-                <table class = "transportation">
-                    <tr>
-                        <th>To and From Commons</th>
-                        <th>Route #s</th>
-                    </tr>
-                    <tr>
-                        <td>Cornell</td>
-                        <td>30, 31, 32, 36, 37, 40, 43, 51, 65, 70, 72, 90</td>
-                    </tr>
-                    <tr>
-                        <td>Ithaca College</td>
-                        <td>11, 65</td>
-                    </tr>
-                </table>
-            </figure>
             <h2>Ithaca Taxi Services</h2>
             <!-- Ithaca taxi services source: https://www.google.com/#q=ithaca+taxi+services -->
             <figure> 
@@ -76,6 +58,26 @@
                         <td>(607) 272-3333</td>
                     </tr>
                 </table>
+            </figure>
+
+            <h2>Bus Routes via TCAT</h2>
+            <!-- TCAT bus route info source: https://tcat.nextinsight.com/summary.php?stopid=1010 -->
+            <figure> 
+                <table class = "transportation">
+                    <tr>
+                        <th>To and From Commons</th>
+                        <th>Route #s</th>
+                    </tr>
+                    <tr>
+                        <td>Cornell</td>
+                        <td>30, 31, 32, 36, 37, 40, 43, 51, 65, 70, 72, 90</td>
+                    </tr>
+                    <tr>
+                        <td>Ithaca College</td>
+                        <td>11, 65</td>
+                    </tr>
+                </table>
+                <caption><a href="https://tcat.nextinsight.com/">Click here</a> to plan your trip</caption>
             </figure>
         	</div> <!--end of tcat div -->
             <?php
