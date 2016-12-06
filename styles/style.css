@@ -307,11 +307,7 @@ html,body{
     #banner{
         height: 4em;
         text-shadow: -1.0px 0 #d3bb3d, 0 1.0px #d3bb3d, 1.0px 0 #d3bb3d, 0 -1.0px #d3bb3d;
-<<<<<<< HEAD
-=======
-        width: 99%;
-        align-content: center;
->>>>>>> bbef0e6afb6b9fdad5c9e2799419342329d015db
+        text-align: left
     }
 
     #sm{
