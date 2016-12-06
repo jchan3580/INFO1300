@@ -46,6 +46,7 @@ html,body{
     background-color: #ca3136;
     color: white;
     font-family: 'Open Sans', sans-serif;
+    font-size:100%;
 }
 
 #nav_bar a {
@@ -63,9 +64,10 @@ html,body{
 	margin-right: auto;
 	margin-left: 3em;
 	width: 75%;
+    font-size: 100%;
 }
 
-#main h1, h2, h3 {
+#main h1, h2, h3, h4 {
     font-family: 'Montserrat', sans-serif;
     color: #ca3136;
 }
