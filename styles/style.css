@@ -311,6 +311,7 @@ html,body{
         padding-right: 0.5em;
         padding-left: 0.5em;
         margin-top: 17em;
+        margin-left: 1em;
     }
     
     p {
@@ -327,5 +328,30 @@ html,body{
 
     #twitterm{
         display:block;
+    }
+
+    #galleryphotos{
+        width:100%;
+        margin-left:12%;
+    }
+
+    #map{
+        width:95%;
+        margin-bottom: 2em;
+        margin-left:5%;
+    }
+
+    #tcat{
+        width:100%;
+    }
+
+    #contact-content{
+        width:100%;
+    }
+
+    #dia-img {
+    margin-top:2em;
+    float:left;
+    width:100%;
     }
 }
