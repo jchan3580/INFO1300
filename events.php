@@ -10,6 +10,7 @@
     
     <link rel="stylesheet" type="text/css"
     href="https://fonts.googleapis.com/css?family=Open+Sans">
+    <script src="js/showOrHide.js"></script>
 </head>
 
 <body>
@@ -35,6 +36,8 @@
         <div id ="events-content">
             <div id ="mainstage-content">
                 <h2 id="mainstage">Bernie Milton Pavillion</h2>
+                <h2 id="mainstage2"><a href = '#' onclick = "showOrHide('milton-content');">Bernie Milton Pavillion</a></h2>
+                <div id = "milton-content">
                     <h4 class="saturday">Saturday 10/1</h4>
                         <ul>
                             <li>
@@ -83,6 +86,7 @@
                                 <p>4:30pm- Mirage Belly Dancers</p>
                             </li>
                         </ul>
+                    </div><!--end of milton-content div -->
     		<?php
 			include 'includes/twitterm.php';
 		    ?>
@@ -90,6 +94,8 @@
             
             <div id ="otherstage-content">
                 <h2 id="otherstage">West State Street</h2>
+                <h2 id="otherstage2"><a href = '#' onclick = "showOrHide('weststate-content');">West State Street</a></h2>
+                <div id = "weststate-content">
                     <h4 class="saturday">Saturday 10/1</h4>
                       <ul>
                             <li>
@@ -118,6 +124,7 @@
                                 <p>3pm- Hula Hut Polynesian Dance</p>
                             </li>
                         </ul>
+                    </div><!--end of weststate-content div -->
             </div> <!--end of otherstage-content div -->
         </div> <!--end of events-content div -->
 	</div> <!-- end of main div -->

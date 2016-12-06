@@ -294,6 +294,18 @@ html,body{
 /* split between styling and media queries */
 /******/ 
 
+@media screen and (min-width: 481px){
+
+    #food2{visibility: hidden;}
+    #crafts2{visibility: hidden;}
+    #mainstage2{visibility: hidden;}
+    #otherstage2{visibility: hidden;}
+    #food-content{margin-top:-4em; display:block;}
+    #crafts-content{margin-top:-4em; display:block;}
+    #milton-content{margin-top: -4em; display:block;}
+    #weststate-content{margin-top: -4em; display:block;}
+}
+
 @media screen and (min-width: 0px) and (max-width: 480px) {
     
     html,body {
@@ -367,7 +379,23 @@ html,body{
         text-align: center;
         margin-bottom: 0em;
     }
-    
+
+    #food{visibility: hidden;}
+    #vendors-food{margin-top: -4em;}
+    #food-content{display:none;}
+
+    #crafts{visibility: hidden;}
+    #vendors-crafts{margin-top:-5.9em;}
+    #crafts-content{display:none;}
+
+    #mainstage{visibility: hidden;}
+    #mainstage-content{margin-top: -5.5em;}
+    #milton-content{display:none;}
+
+    #otherstage{visibility: hidden;}
+    #otherstage-content{margin-top: -5.5em;}
+    #weststate-content{display:none;}
+
     #photo1 {
         display: none;
     }

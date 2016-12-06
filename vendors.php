@@ -10,6 +10,7 @@
     
     <link rel="stylesheet" type="text/css"
     href="https://fonts.googleapis.com/css?family=Open+Sans">
+    <script src="js/showOrHide.js"></script>
 </head>
 
 <body>
@@ -34,6 +35,8 @@
         <div id ="vendors-content">
             <div id="vendors-food">
                 <h2 id="food">Food</h2>
+                <h2 id="food2"><a href = '#' onclick = "showOrHide('food-content');">Food</a></h2>
+                    <div id = "food-content">
                     <ul>
                         <li>
                             <p class="name">Autumn's Harvest Farm</p>
@@ -85,6 +88,7 @@
                             <p>Family run, pick-your-own orchard open seasonally</p>
                         </li>
                     </ul>
+                </div><!-- end of food-content div -->
             <?php
             include 'includes/twitterm.php';
             ?>
@@ -92,6 +96,8 @@
             
             <div id= "vendors-crafts">
                 <h2 id="crafts">Crafts and other goods</h2>
+                <h2 id="crafts2"><a href = '#' onclick = "showOrHide('crafts-content');">Crafts and other goods</a></h2>
+                <div id = "crafts-content">
                     <ul>
                         <li>
                             <p class="name">17th Century Suds</p>
@@ -143,6 +149,7 @@
                             <p>Terrariums of all shapes and sizes!</p>
                         </li>
                     </ul>
+                </div><!--end of crafts-content div -->
             </div> <!-- end of vendors-crafts div -->
 	    </div><!-- end of vendors-content div -->
     </div> <!-- end of main div -->
