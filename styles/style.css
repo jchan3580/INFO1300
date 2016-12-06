@@ -342,6 +342,10 @@ html,body{
     #main h1 {
         text-align: center;
     }
+    
+    #main p {
+        padding-top: 0.5em;
+    }
 
     #photo1 {
         display: none;
