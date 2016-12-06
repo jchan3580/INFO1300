@@ -290,6 +290,10 @@ html,body{
     text-align: center;
 }
 
+caption {
+    text-align: center;
+}
+
 /*********/
 /* split between styling and media queries */
 /******/ 
