@@ -363,6 +363,14 @@ html,body{
         margin-top: 17em;
     }
     
+    #main p {
+        margin-top: 0.4em;
+    }
+    
+    #main ul {
+        margin-top: 0.4em;
+    }
+    
     #content h1 {
         text-align: center;
         margin-bottom: 0em;
@@ -375,6 +383,8 @@ html,body{
     #photo2 {
         margin-left: auto;
         margin-right: auto;
+        text-align: center;
+        width: 100%;
     }
 
     #photo3 {
