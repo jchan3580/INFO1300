@@ -127,6 +127,9 @@
                     </div><!--end of weststate-content div -->
             </div> <!--end of otherstage-content div -->
         </div> <!--end of events-content div -->
+        <div id="map">
+            <img src="images/map.jpeg" alt="Map of Event">
+        </div>
 	</div> <!-- end of main div -->
     <!--events schedule information source: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
 	<div id = "twitfeed">
