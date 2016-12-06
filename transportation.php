@@ -77,7 +77,7 @@
                         <td>11, 65</td>
                     </tr>
                 </table>
-                <caption><a href="https://tcat.nextinsight.com/">Click here</a> to plan your trip</caption>
+                <caption><a href="https://tcat.nextinsight.com/" target="_blank">Click here</a> to plan your trip</caption>
             </figure>
         	</div> <!--end of tcat div -->
             <?php
