@@ -300,10 +300,10 @@ html,body{
     #crafts2{visibility: hidden;}
     #mainstage2{visibility: hidden;}
     #otherstage2{visibility: hidden;}
-    #food-content{margin-top:-4em; display:block;}
-    #crafts-content{margin-top:-4em; display:block;}
-    #milton-content{margin-top: -4em; display:block;}
-    #weststate-content{margin-top: -4em; display:block;}
+    #food-content{margin-top:-4em; display:block !important;}
+    #crafts-content{margin-top:-4em; display:block !important;}
+    #milton-content{margin-top: -4em; display:block !important;}
+    #weststate-content{margin-top: -4em; display:block !important;}
 }
 
 @media screen and (min-width: 0px) and (max-width: 480px) {
