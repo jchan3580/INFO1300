@@ -455,6 +455,10 @@ caption {
     #tcat{
         width:100%;
     }
+    
+    #vendors-content .name {
+    margin-bottom: -0.3em;
+    }
 
     #contact-content{
         width:100%;
