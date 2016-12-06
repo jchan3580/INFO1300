@@ -138,7 +138,7 @@
             </div> <!-- end of vendors-crafts div -->
 	   </div><!-- end of vendors-content div -->
         <?php
-            include 'includes/sm.php';
+            include 'includes/twitterm.php';
         ?>
     </div> <!-- end of main div -->
 	<div id = "twitfeed">

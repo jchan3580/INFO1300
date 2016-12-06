@@ -96,7 +96,7 @@
                 <p>Visit our <a href="transportation.php">Transportation</a> page for more detailed transportation information to the festival.</p>
 		</div> <!-- end of content div -->
 		<?php
-			include 'includes/sm.php';
+			include 'includes/twitterm.php';
 		?>
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">

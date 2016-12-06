@@ -54,7 +54,7 @@
 		<!--Photo from: http://www.eventcrazy.com/event/photos/352755_1_51_091611_115330.jpg -->
 		</div> <!-- end of galleryphotos div-->
 		<?php
-			include 'includes/sm.php';
+			include 'includes/twitterm.php';
 		?>
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">

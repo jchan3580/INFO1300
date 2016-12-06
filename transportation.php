@@ -74,7 +74,7 @@
             </figure>
         	</div> <!--end of tcat div -->
             <?php
-            include 'includes/sm.php';
+            include 'includes/twitterm.php';
             ?>
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">

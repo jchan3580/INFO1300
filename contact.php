@@ -39,7 +39,7 @@
 			<!-- URL: http://www.downtownithaca.com/local/file_upload/images/Screen%20Shot%202014-01-30%20at%208_54_03%20PM.png -->
 		</div> <!-- end of dia img div -->
 		<?php
-			include 'includes/sm.php';
+			include 'includes/twitterm.php';
 		?>
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">

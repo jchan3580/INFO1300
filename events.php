@@ -113,7 +113,7 @@
             </div> <!--end of 2ndstage-content div -->
         </div> <!--end of events-content div -->
 		<?php
-			include 'includes/sm.php';
+			include 'includes/twitterm.php';
 		?>
 	</div> <!-- end of main div -->
     <!--events schedule information source: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
