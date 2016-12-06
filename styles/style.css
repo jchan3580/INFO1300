@@ -46,6 +46,7 @@ html,body{
     background-color: #ca3136;
     color: white;
     font-family: 'Open Sans', sans-serif;
+    font-size:100%;
 }
 
 #nav_bar a {
@@ -63,9 +64,10 @@ html,body{
 	margin-right: auto;
 	margin-left: 3em;
 	width: 75%;
+    font-size: 100%;
 }
 
-#main h1, h2, h3 {
+#main h1, h2, h3, h4 {
     font-family: 'Montserrat', sans-serif;
     color: #ca3136;
 }
@@ -199,7 +201,7 @@ html,body{
 
 #events-content{
     margin-top: -1.3em;
-    width: 90%;
+    width: 92%;
     margin-left: 5%;
 }
 
@@ -209,9 +211,18 @@ html,body{
     border-radius: 5px;
 }
 
+#events-content h4 {
+    padding-left: 1em;
+}
+
 #events-content ul {
-    padding-left: 2em;
+    padding-left: 3em;
     padding-right: 2em;
+}
+
+#otherstage-content {
+    float: right;
+    width: 50%;
 }
 
 #mainstage-content {
@@ -219,10 +230,9 @@ html,body{
     width: 48%;
 }
 
-#2ndstage-content {
-    float: right;
-    width: 48%;
-}
+.saturday, .sunday{
+    font-family: 'open sans', sans-serif;
+} 
 
 /** Gallery.php css */
 
