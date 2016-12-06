@@ -406,11 +406,11 @@ caption {
     #crafts-content{display:none;}
 
     #mainstage{visibility: hidden;}
-    #mainstage-content{margin-top: -5.5em;}
+    #mainstage-content{margin-top: -5.5em;width:60%;}
     #milton-content{display:none;}
 
     #otherstage{visibility: hidden;}
-    #otherstage-content{margin-top: -3.7em;}
+    #otherstage-content{margin-top: -3.7em;width:60%;float:left;}
     #weststate-content{display:none;}
 
     #photo1 {
