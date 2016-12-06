@@ -137,6 +137,9 @@
                     </ul>
             </div> <!-- end of vendors-crafts div -->
 	   </div><!-- end of vendors-content div -->
+        <?php
+            include 'includes/sm.php';
+        ?>
     </div> <!-- end of main div -->
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="650" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -53,6 +53,9 @@
 		<img src="images/apples_in_baskets.jpg" alt="Apple Baskets">
 		<!--Photo from: http://www.eventcrazy.com/event/photos/352755_1_51_091611_115330.jpg -->
 		</div> <!-- end of galleryphotos div-->
+		<?php
+			include 'includes/sm.php';
+		?>
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -307,4 +307,8 @@ html,body{
         display: inline;
     }
 
+    #show {
+        display:block;
+    }
+
 }

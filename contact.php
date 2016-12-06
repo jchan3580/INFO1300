@@ -38,6 +38,9 @@
 			<a href = "http://www.downtownithaca.com/"><img src="images/dia.jpeg" alt="Downtown Ithaca"></a>
 			<!-- URL: http://www.downtownithaca.com/local/file_upload/images/Screen%20Shot%202014-01-30%20at%208_54_03%20PM.png -->
 		</div> <!-- end of dia img div -->
+		<?php
+			include 'includes/sm.php';
+		?>
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="400" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
