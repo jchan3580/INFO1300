@@ -328,7 +328,6 @@ html,body{
         display: block;
         text-align: center;
         border-bottom: 0.1em Solid white;
-        margin-right: 0.5em;
     }
     
     #main {
@@ -355,10 +354,6 @@ html,body{
 
     #photo3 {
         display: none;
-    }
-    
-    p {
-        font-size:0.8em;
     }
 
     #sm-content {
