@@ -338,6 +338,10 @@ html,body{
         margin-top: 17em;
         margin-left: 1em;
     }
+    
+    #main h1 {
+        text-align: center;
+    }
 
     #photo1 {
         display: none;
