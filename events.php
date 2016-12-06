@@ -80,8 +80,8 @@
                         </ul>
             </div> <!--end of mainstage-content div -->
             
-            <div id ="2ndstage-content">
-                <h2 id="2ndstage">West State Street Theater</h2>
+            <div id ="otherstage-content">
+                <h2 id="otherstage">West State Street Theater</h2>
                     <h4 class="saturday">Saturday 10/1</h4>
                       <ul>
                             <li>
@@ -110,14 +110,13 @@
                                 <p>3pm- Hula Hut Polynesian Dance</p>
                             </li>
                         </ul>
-            </div> <!--end of 2ndstage-content div -->
+            </div> <!--end of otherstage-content div -->
         </div> <!--end of events-content div -->
+	</div> <!-- end of main div -->
+    <!--events schedule information source: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
 		<?php
 			include 'includes/twitterm.php';
 		?>
-	</div> <!-- end of main div -->
-    <!--events schedule information source: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
-    
 	<div id = "twitfeed">
 	<a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</div> <!-- end of twitfeed div -->
