@@ -343,6 +343,10 @@ html,body{
         display: none;
     }
 
+    #photo2 {
+        align-content: center;
+    }
+
     #photo3 {
         display: none;
     }
