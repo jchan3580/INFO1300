@@ -125,7 +125,7 @@
                     </div><!--end of weststate-content div -->
             </div> <!--end of otherstage-content div -->
         </div> <!--end of events-content div -->
-        <div id="map">
+        <div id="eventmap">
             <img src="images/map.jpeg" alt="Map of Event">
         </div>
         
@@ -137,7 +137,7 @@
     <!--events schedule information source: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust -->
     
     <div id = "twitfeed">
-        <a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <a class="twitter-timeline" data-width="220" data-height="1350" href="https://twitter.com/downtownithaca">Tweets by downtownithaca</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div> <!-- end of twitfeed div -->
 </body>
 </html>

@@ -294,7 +294,7 @@ caption {
     text-align: center;
 }
 
-#map {
+#eventmap img{
     width: 100%;
 }
 
@@ -409,7 +409,7 @@ caption {
     #milton-content{display:none;}
 
     #otherstage{visibility: hidden;}
-    #otherstage-content{margin-top: -5.5em;}
+    #otherstage-content{margin-top: -3.7em;}
     #weststate-content{display:none;}
 
     #photo1 {
@@ -445,7 +445,7 @@ caption {
         margin-left:12%;
     }
 
-    #map{
+    #eventmap img{
         width:95%;
         margin-bottom: 2em;
         margin-left:5%;
