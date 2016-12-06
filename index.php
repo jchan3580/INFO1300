@@ -38,26 +38,26 @@
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
 	<div id="main">
-		<!--<div class="buttons">
-			<button onclick="change(0);">Previous</button>
-        	<button onclick="change(1);">Next</button>
-		</div>-->
 		<div id= "photo1">
 			<a href="gallery.php">
 			<img src="images/apple_fest.jpeg" alt="Apple Fest">
+			<!--Photo from: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust-->
 			</a>
 		</div>
 		<div id="photo2">
 			<a href="gallery.php">
             <img src="images/DSC_0510.JPG" alt="Maple Syrup">
+            <!-- Photo taken by Amy Zhong-->
             </a>
             <a href="gallery.php">
             <img src="images/DSC_0687.JPG" alt="Apples">
+            <!-- Photo taken by Amy Zhong -->
             </a>
         </div>
         <div id="photo3">
         	<a href="gallery.php">
         	<img src="images/IMG_3882.jpg" alt="Ithaca Commons">
+        	<!-- Photo taken by Mariel Terr -->
         	</a>
         </div>
 		<div id="content">

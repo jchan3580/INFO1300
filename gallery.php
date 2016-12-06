@@ -28,14 +28,18 @@
 	<div id = "main">
 		<div id = "galleryphotos">
 		<img src="images/apple_fest(1).jpeg" alt="Apple Fest">
+		<!--Photo from: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust-->
 		<img src="images/DSC_0510(1).JPG" alt="Maple Syrup">
+		<!-- Photo taken by Amy Zhong -->
 		<img src="images/DSC_0687(1).JPG" alt="Apples">
+		<!-- Photo taken by Amy Zhong -->
 		<img src="images/IMG_1334.jpg" alt="Food Stand">
 		<img src="images/IMG_1345.jpg" alt="Maple Syrup Stand">
 		<img src="images/IMG_1348.jpg" alt="Food Stand">
 		<img src="images/IMG_1353.jpg" alt="Lemonade Stand">
 		<img src="images/IMG_1359.jpg" alt="Corn Stand">
 		<img src="images/IMG_1361.jpg" alt="Berry Stand">
+		<!---Photos IMG_1334.jpg, IMG_1345.jpg, IMG_1348.jpg, IMG_1353.jpg, IMG_1359.jpg, IMG_1361.jpg taken by Mariel Terr-->
 		</div> <!-- end of galleryphotos div-->
 	</div> <!-- end of main div -->
 	<div id = "twitfeed">
