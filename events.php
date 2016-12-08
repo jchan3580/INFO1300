@@ -38,8 +38,8 @@
         </div>
         <div id ="events-content">
             <div id ="mainstage-content">
-                <h2 id="mainstage">Bernie Milton Pavillion</h2>
-                <h2 id="mainstage2"><a href = '#' onclick = "showOrHide('milton-content');">Bernie Milton Pavilion</a></h2>
+                <h2 id="mainstage">Bernie Milton Pavillion (Main Stage)</h2>
+                <h2 id="mainstage2"><a href = '#' onclick = "showOrHide('milton-content');">Bernie Milton Pavilion (Main Stage)</a></h2>
                 <div id = "milton-content">
                     <h4 class="saturday">Saturday 10/1</h4>
                         <ul>
