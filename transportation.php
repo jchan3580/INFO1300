@@ -65,6 +65,7 @@
             <!-- TCAT bus route info source: https://tcat.nextinsight.com/summary.php?stopid=1010 -->
             <figure> 
                 <table class = "transportation">
+                    <caption><a href="https://tcat.nextinsight.com/" target="_blank">Click here</a> to plan your trip</caption>
                     <tr>
                         <th>To and From Commons</th>
                         <th>Route #s</th>
@@ -77,7 +78,6 @@
                         <td>Ithaca College</td>
                         <td>11, 65</td>
                     </tr>
-                    <caption><a href="https://tcat.nextinsight.com/" target="_blank">Click here</a> to plan your trip</caption>
                 </table>
             </figure>
         	</div> <!--end of tcat div -->
