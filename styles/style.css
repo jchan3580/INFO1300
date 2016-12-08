@@ -452,6 +452,10 @@ caption {
         margin-left:5%;
     }
 
+    #map{
+        width:100%;
+    }
+
     #tcat{
         width:100%;
     }
