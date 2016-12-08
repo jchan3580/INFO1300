@@ -96,8 +96,8 @@
             </div> <!--end of vendors-food div -->
             
             <div id= "vendors-crafts">
-                <h2 id="crafts">Crafts and other goods</h2>
-                <h2 id="crafts2"><a href = '#' onclick = "showOrHide('crafts-content');">Crafts and other goods</a></h2>
+                <h2 id="crafts">Crafts and Other Goods</h2>
+                <h2 id="crafts2"><a href = '#' onclick = "showOrHide('crafts-content');">Crafts and Other Goods</a></h2>
                 <div id = "crafts-content">
                     <ul>
                         <li>
