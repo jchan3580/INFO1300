@@ -32,6 +32,7 @@
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
 	<div id = "main">
+        <h1>Vendors</h1>
         <div id ="vendors-content">
             <div id="vendors-food">
                 <h2 id="food">Food</h2>
