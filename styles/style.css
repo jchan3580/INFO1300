@@ -72,6 +72,10 @@ html,body{
     color: #ca3136;
 }
 
+#center_title {
+    text-align: center;
+}
+
 #main p {
     font-family: 'Open sans', sans-serif;
 }

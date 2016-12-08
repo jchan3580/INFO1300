@@ -33,7 +33,9 @@
 	</div> <!-- end of stickyheader div -->
 	
     <div id = "main">
-        <h1>Events</h1>
+        <div id="center_title">
+            <h1>Events</h1>
+        </div>
         <div id ="events-content">
             <div id ="mainstage-content">
                 <h2 id="mainstage">Bernie Milton Pavillion</h2>

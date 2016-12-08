@@ -31,7 +31,9 @@
 		</div> <!-- end of navbar div -->
 	</div> <!-- end of stickyheader div -->
 	<div id = "main">
-		<h1>Gallery</h1>
+		<div id="center_title">
+			<h1>Gallery</h1>
+		</div>
 		<div id = "galleryphotos">
 		<img src="images/apple_fest(1).jpeg" alt="Apple Fest">
 		<!--Photo from: http://www.downtownithaca.com/ithaca-events/Apple%20Harvest%20Festival%20Presented%20by%20Tompkins%20Trust-->
