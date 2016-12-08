@@ -282,6 +282,7 @@ html,body{
 
 caption {
     caption-side: bottom;
+    text-align: center;
 }
 
 /** Contact.php css */

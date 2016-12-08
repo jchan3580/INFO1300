@@ -76,8 +76,8 @@
                         <td>Ithaca College</td>
                         <td>11, 65</td>
                     </tr>
+                    <caption><a href="https://tcat.nextinsight.com/" target="_blank">Click here</a> to plan your trip</caption>
                 </table>
-                <caption><a href="https://tcat.nextinsight.com/" target="_blank">Click here</a> to plan your trip</caption>
             </figure>
         	</div> <!--end of tcat div -->
             <?php
