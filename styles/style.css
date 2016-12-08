@@ -197,6 +197,10 @@ html,body{
     width: 48%;
 }
 
+#eventmap img{
+    width: 100%;
+}
+
 /**Events.php css */
 
 #events-content{
@@ -262,20 +266,6 @@ html,body{
     text-align: center;
 }
 
-/** Contact.php css */
-
-#contact-content {
-    float:left;
-    width: 75%;
-    margin-left: 1%;
-}
-
-#dia-img {
-    margin-top:2em;
-    float:right;
-    width:20%;
-}
-
 .transportation {
     border-collapse:collapse;
     border-spacing: 0;
@@ -291,12 +281,21 @@ html,body{
 }
 
 caption {
-    text-align: center;
+    caption-side: bottom;
 }
 
+/** Contact.php css */
 
-#eventmap img{
-    width: 100%;
+#contact-content {
+    float:left;
+    width: 75%;
+    margin-left: 1%;
+}
+
+#dia-img {
+    margin-top:2em;
+    float:right;
+    width:20%;
 }
 
 /*********/
